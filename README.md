@@ -54,15 +54,11 @@ Archetype: Superarchetype_Subarchetype
 Record: MatchWins-MatchLosses
 Games: GameWins-GameLosses
 
-1 Lightning Bolt\\
-.\\
-.\\
-.\\
+1 Lightning Bolt
+\vdots()
 
 1 One with Nothing\\
-.\\
-.\\
-.\\
+\vdots()
 
 Note: Incorrect formatting may cause errors.
 
