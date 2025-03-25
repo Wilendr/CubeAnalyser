@@ -1,3 +1,0 @@
-The following cards in the cube list are not found in Scryfall's database::
-
-The following cards in deck lists are not found in Scryfall's database:
