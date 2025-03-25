@@ -1,0 +1,53 @@
+Player: Aslak
+Archetype: Aggro_Spellslinger
+Record: 2-1
+Games: 5-4
+
+1 Mercurial Spelldancer
+1 Scalding Viper // Steam Clean
+1 Deep Analysis
+1 Malcolm, Alluring Scoundrel
+1 Guttersnipe
+1 Spyglass Siren
+1 Nadir Kraken
+1 Ardent Elementalist
+1 Terror of the Peaks
+1 Sicarian Infiltrator
+1 Thundering Falls
+1 Monastery Swiftspear
+1 Ketria Triome
+1 Fiery Confluence
+1 Izzet Boilerworks
+1 Xander's Lounge
+1 Archmage Emeritus
+1 Arcane Denial
+1 Broadside Bombardiers
+1 Prismari Command
+1 Subterranean Schooner
+1 Burst Lightning
+1 Glen Elendra Archmage
+1 Firebolt
+1 Faerie Seer
+1 Chart a Course
+1 Third Path Iconoclast
+1 Captain Lannery Storm
+6 Island
+6 Mountain
+
+1 Psychosis Crawler
+1 Windfall
+1 Light Up the Stage
+1 Benthic Biomancer
+1 Circuit Mender
+1 Scurry Oak
+1 Arid Mesa
+1 Usher of the Fallen
+1 Mikaeus, the Lunarch
+1 Loran of the Third Path
+1 Anzrag, the Quake-Mole
+1 Territorial Kavu
+1 Bushwhack
+1 Veil of Summer
+1 Zagoth Triome
+1 Copperline Gorge
+1 Raging Ravine

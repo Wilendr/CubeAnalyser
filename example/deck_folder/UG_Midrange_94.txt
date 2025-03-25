@@ -1,0 +1,53 @@
+Player: Morten
+Archetype: Midrange_Mill
+Record: 0-2
+Games: 1-4
+
+1 Wood Elves
+1 Old One Eye
+1 Narset, Parter of Veils
+1 Windfall
+1 Indatha Triome
+1 Shelldock Isle
+1 Creeping Tar Pit
+1 Miscalculation
+1 Coveted Jewel
+1 Fiery Islet
+1 Regrowth
+1 Serum Visions
+1 Spara's Headquarters
+1 Restless Vinestalk
+1 Izzet Boilerworks
+1 Hedron Crab
+1 Displacer Kitten
+1 Arcane Denial
+1 Prairie Stream
+1 Sandstorm Salvager
+1 Nadu, Winged Wisdom
+1 Hullbreacher
+1 Nissa, Ascended Animist
+1 Relic of Sauron
+1 Mercurial Spelldancer
+1 Scalding Tarn
+1 Tireless Tracker
+1 Six
+1 Toski, Bearer of Secrets
+1 Sylvan Safekeeper
+1 Torrential Gearhulk
+1 Horizon of Progress
+1 Sphinx's Tutelage
+1 Incubation Druid
+1 Island
+5 Forest
+
+1 Crop Rotation
+1 Sicarian Infiltrator
+1 Venser, Shaper Savant
+1 Recruitment Officer
+1 Approach of the Second Sun
+1 Utopia Sprawl
+1 Mimic Vat
+1 Third Path Iconoclast
+1 Grim Lavamancer
+1 Occult Epiphany
+1 Lose Focus

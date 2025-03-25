@@ -1,0 +1,53 @@
+Player: Anders
+Archetype: Midrange_Reanimator
+Record: 3-0
+Games: 6-3
+
+1 Go for the Throat
+1 Undead Butler
+1 Sheoldred's Edict
+1 Persist
+1 Charming Prince
+1 Necromancy
+1 Touch the Spirit Realm
+1 Cryptbreaker
+1 Preacher of the Schism
+1 Abstruse Appropriation
+1 Sunfall
+1 Creeping Tar Pit
+1 Prairie Stream
+1 Noxious Gearhulk
+1 Elegant Parlor
+1 Celestial Colonnade
+1 Ashen Rider
+1 Assault Intercessor
+1 Intrepid Adversary
+1 Gix's Command
+1 Victimize
+1 Lethal Scheme
+1 Scavenged Brawler
+1 Dark Confidant
+1 Eagles of the North
+1 Raffine's Tower
+1 Virtue of Persistence // Locthwain Scorn
+1 Liliana of the Veil
+6 Plains
+6 Swamp
+
+1 Wrath of God
+1 Kitchen Finks
+1 Loran of the Third Path
+1 Elite Spellbinder
+1 Oblivion Ring
+1 Approach of the Second Sun
+1 Soul Partition
+1 Dread Return
+1 Woodland Cemetery
+1 Simic Growth Chamber
+1 Aether Channeler
+1 Zealous Conscripts
+1 Sheltering Landscape
+1 Kayla's Command
+1 Supreme Verdict
+1 Reflector Mage
+1 The Gitrog Monster

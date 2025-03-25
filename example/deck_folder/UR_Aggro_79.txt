@@ -1,0 +1,53 @@
+Player: Ole
+Archetype: Aggro_Spellslinger
+Record: 0-3
+Games: 1-6
+
+1 Monastery Swiftspear
+1 Shelldock Isle
+1 Slickshot Show-Off
+1 Young Pyromancer
+1 Prismari Command
+1 Abbot of Keral Keep
+1 Professional Face-Breaker
+1 Firebolt
+1 Skewer the Critics
+1 Expressive Iteration
+1 Baral, Chief of Compliance
+1 Dig Through Time
+1 Light Up the Stage
+1 Izzet Boilerworks
+1 Bountiful Landscape
+1 Snapcaster Mage
+1 Faithless Looting
+1 Consider
+1 Reinforced Ronin
+1 Mizzium Mortars
+1 Scalding Tarn
+1 Reckless Impulse
+1 Burn Down the House
+1 Chart a Course
+1 Deep Analysis
+1 Cemetery Gatekeeper
+1 Abrade
+1 Mercurial Spelldancer
+1 Brainstorm
+4 Island
+7 Mountain
+
+1 The First Iroan Games
+1 Wild Growth
+1 Soulherder
+1 Bushwhack
+1 Commit // Memory
+1 Krenko, Tin Street Kingpin
+1 Breeding Pool
+1 Nadu, Winged Wisdom
+1 Dryad of the Ilysian Grove
+1 Cathar Commando
+1 Spectral Sailor
+1 Dour Port-Mage
+1 Shark Typhoon
+1 Watcher for Tomorrow
+1 Ingenious Prodigy
+1 Serum Visions

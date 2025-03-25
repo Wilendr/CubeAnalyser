@@ -1,0 +1,53 @@
+Player: Vegard
+Archetype: Aggro_Sacrifice
+Record: 2-1
+Games: 4.5-2.5
+
+1 Spitting Dilophosaurus
+1 Pyrokinesis
+1 Dauthi Voidwalker
+1 Scalding Tarn
+1 Earthshaker Khenra
+1 Immersturm Predator
+1 Wooded Foothills
+1 Blood Crypt
+1 Chaos Defiler
+1 Thoughtseize
+1 Restless Vents
+1 Urabrask's Forge
+1 Burst Lightning
+1 Knight of the Ebon Legion
+1 Breeches, Eager Pillager
+1 Inti, Seneschal of the Sun
+1 Abrade
+1 Dragonskull Summit
+1 Bloodtithe Harvester
+1 Emberwilde Captain
+1 Go for the Throat
+1 Blacklance Paragon
+1 Lightning Bolt
+1 Chandra, Torch of Defiance
+1 Deep-Cavern Bat
+1 Broadside Bombardiers
+1 Reanimate
+1 Kolaghan's Command
+6 Swamp
+6 Mountain
+
+1 Cemetery Gatekeeper
+1 Bloodsoaked Champion
+1 Reinforced Ronin
+1 Noxious Gearhulk
+1 Witch's Oven
+1 Cauldron Familiar
+1 Breach the Multiverse
+1 Greater Tanuki
+1 Royal Warden
+1 Burn Down the House
+1 Skysovereign, Consul Flagship
+1 Ilharg, the Raze-Boar
+1 Morbid Opportunist
+1 Dark Deal
+1 Reprieve
+1 Warleader's Call
+1 Soul-Scar Mage

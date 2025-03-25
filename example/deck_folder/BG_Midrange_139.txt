@@ -1,0 +1,54 @@
+Player: Morten
+Archetype: Midrange_Graveyard
+Record: 0-2
+Games: 1-4
+
+1 Valgavoth, Terror Eater
+1 Troll of Khazad-dûm
+1 Sandstorm Salvager
+1 Nissa, Ascended Animist
+1 Bloodsoaked Champion
+1 Toski, Bearer of Secrets
+1 Saw in Half
+1 Sphinx's Tutelage
+1 Misty Rainforest
+1 Horizon of Progress
+1 Formless Genesis
+1 Llanowar Elves
+1 Malevolent Rumble
+1 Six
+1 Grist, the Hunger Tide
+1 Birds of Paradise
+1 Noble Hierarch
+1 Eternal Witness
+1 Ziatora's Proving Ground
+1 Strip Mine
+1 Ketria Triome
+1 Regrowth
+1 Hulking Raptor
+1 Smuggler's Surprise
+1 Palantír of Orthanc
+1 Maha, Its Feathers Night
+1 Baleful Mastery
+1 Woodland Cemetery
+1 Overgrown Tomb
+1 Elvish Mystic
+1 Scavenged Brawler
+1 Altar of Dementia
+1 Ravenous Chupacabra
+1 Three Visits
+1 Skullclamp
+1 Conduit of Worlds
+1 Breeding Pool
+1 Old One Eye
+1 Verdant Catacombs
+1 Breach the Multiverse
+1 Island
+6 Swamp
+5 Forest
+
+1 Cauldron Familiar
+1 Sowing Mycospawn
+1 Biophagus
+1 Caldaia Guardian
+1 Cankerbloom

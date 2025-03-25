@@ -1,0 +1,53 @@
+Player: William
+Archetype: Midrange_Ramp
+Record: 0-2
+Games: 1-4
+
+1 Llanowar Loamspeaker
+1 Shelldock Isle
+1 Stonecoil Serpent
+1 Thragtusk
+1 Restless Vinestalk
+1 Beanstalk Giant // Fertile Footsteps
+1 Mana Leak
+1 Iymrith, Desert Doom
+1 Dryad of the Ilysian Grove
+1 End-Raze Forerunners
+1 Tireless Provisioner
+1 Biophagus
+1 Utopia Sprawl
+1 Llanowar Elves
+1 Topiary Stomper
+1 Contest of Claws
+1 Tatyova, Benthic Druid
+1 Elvish Mystic
+1 Greater Tanuki
+1 Pest Infestation
+1 Mystic Confluence
+1 Generous Ent
+1 The Goose Mother
+1 Breeding Pool
+1 Spara's Headquarters
+1 Farhaven Elf
+1 Entish Restoration
+1 Noble Hierarch
+4 Island
+8 Forest
+
+1 Renata, Called to the Hunt
+1 Gala Greeters
+1 Jadelight Spelunker
+1 Rishkar, Peema Renegade
+1 Kodama of the West Tree
+1 Nissa, Who Shakes the World
+1 Wrenn and Realmbreaker
+1 Hide in Plain Sight
+1 Icefall Regent
+1 Brainstorm
+1 Ledger Shredder
+1 Ornithopter of Paradise
+1 Space Marine Devastator
+1 Touch the Spirit Realm
+1 Woodland Cemetery
+1 Mimic Vat
+1 Caldaia Guardian

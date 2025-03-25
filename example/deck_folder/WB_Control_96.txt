@@ -1,0 +1,53 @@
+Player: Anders
+Archetype: Control_Reanimator
+Record: 1-2
+Games: 2-5
+
+1 Loran of the Third Path
+1 Bloodline Culling
+1 Bitter Triumph
+1 Harvester of Misery
+1 The Wandering Emperor
+1 Ravenous Chupacabra
+1 Tenacious Underdog
+1 Dark Confidant
+1 Skyclave Apparition
+1 Delney, Streetwise Lookout
+1 Tinybones, the Pickpocket
+1 Phelia, Exuberant Shepherd
+1 Body Launderer
+1 Keen Duelist
+1 Condemn
+1 Gix's Command
+1 Living Death
+1 Karmic Guide
+1 Virtue of Persistence // Locthwain Scorn
+1 Necromancy
+1 Sevinne's Reclamation
+1 Troll of Khazad-dûm
+1 Nethergoyf
+8 Plains
+9 Swamp
+
+1 Intrepid Adversary
+1 Unexpectedly Absent
+1 Wrath of God
+1 Spitting Dilophosaurus
+1 Restoration Angel
+1 Guardian Scalelord
+1 Cauldron Familiar
+1 Hero of Bladehold
+1 Hopeful Initiate
+1 Triplicate Titan
+1 Astral Drift
+1 Heliod, Sun-Crowned
+1 Cryptic Coat
+1 Figure of Destiny
+1 Bloodsoaked Champion
+1 Twisted Landscape
+1 Celestial Colonnade
+1 Robber of the Rich
+1 Contest of Claws
+1 Icefall Regent
+1 Mulldrifter
+1 Magmatic Sinkhole

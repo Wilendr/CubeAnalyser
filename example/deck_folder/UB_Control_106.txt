@@ -1,0 +1,53 @@
+Player: Elias
+Archetype: Control
+Record: 2-1
+Games: 5-2
+
+1 Watery Grave
+1 Zagoth Triome
+1 Dauthi Voidwalker
+1 Fall from Favor
+1 Bloodline Culling
+1 Shark Typhoon
+1 Tinybones, the Pickpocket
+1 Inquisition of Kozilek
+1 Urborg Scavengers
+1 Thieving Skydiver
+1 Exsanguinator Cavalry
+1 Kitesail Larcenist
+1 Psychic Frog
+1 Triarch Praetorian
+1 Control Magic
+1 Preacher of the Schism
+1 Ertai Resurrected
+1 Go for the Throat
+1 Bloodstained Mire
+1 Escape Tunnel
+1 Ash Barrens
+1 Lose Focus
+1 Enduring Curiosity
+1 Daze
+1 Preordain
+1 Three Steps Ahead
+1 Raffine's Tower
+1 Vendilion Clique
+1 Azure Beastbinder
+6 Island
+5 Swamp
+
+1 Ingenious Prodigy
+1 Wood Elves
+1 Samwise Gamgee
+1 Shambling Vent
+1 Expressive Iteration
+1 Burst Lightning
+1 Hangarback Walker
+1 Glorybringer
+1 Mimic Vat
+1 Perilous Landscape
+1 Field of the Dead
+1 Cankerbloom
+1 Hedge Shredder
+1 Deep Analysis
+1 Spectral Sailor
+1 Hostile Investigator

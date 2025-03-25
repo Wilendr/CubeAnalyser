@@ -1,0 +1,54 @@
+Player: William
+Archetype: Control
+Record: 0-3
+Games: 1-6
+
+1 Thorn of the Black Rose
+1 Spell Pierce
+1 Kitesail Larcenist
+1 Mulldrifter
+1 Creeping Tar Pit
+1 Riftwing Cloudskate
+1 Ponder
+1 Occult Epiphany
+1 Mana Leak
+1 Chart a Course
+1 Approach of the Second Sun
+1 Snapcaster Mage
+1 Shadowy Backstreet
+1 Polluted Delta
+1 Vendilion Clique
+1 Spyglass Siren
+1 Baleful Strix
+1 Deep-Cavern Bat
+1 Smuggler's Copter
+1 Foreboding Landscape
+1 Brain Maggot
+1 Fall from Favor
+1 Feed the Swarm
+1 Inquisition of Kozilek
+1 Exsanguinator Cavalry
+1 Flooded Strand
+1 Brainstorm
+1 Brazen Borrower // Petty Theft
+1 Preordain
+1 Prismatic Vista
+2 Plains
+5 Island
+3 Swamp
+
+1 Remand
+1 Spectral Sailor
+1 Mercurial Spelldancer
+1 Icefall Regent
+1 Syr Ginger, the Meal Ender
+1 Wight of the Reliquary
+1 Simic Growth Chamber
+1 Spirited Companion
+1 Usher of the Fallen
+1 Heart-Piercer Manticore
+1 Gandalf, White Rider
+1 Goblin Guide
+1 Grim Lavamancer
+1 Shriekmaw
+1 Ingenious Prodigy

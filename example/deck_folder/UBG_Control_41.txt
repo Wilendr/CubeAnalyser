@@ -1,0 +1,54 @@
+Player: Anders
+Archetype: Control_Reanimator
+Record: 1-2
+Games: 2-5
+
+1 Hoarding Broodlord
+1 Black Sun's Twilight
+1 Hullbreaker Horror
+1 Troll of Khazad-dûm
+1 Braids, Arisen Nightmare
+1 Exhume
+1 Zagoth Triome
+1 Bitter Triumph
+1 Tenacious Underdog
+1 Boseiju, Who Endures
+1 Ornithopter of Paradise
+1 Rankle, Master of Pranks
+1 Spitting Dilophosaurus
+1 Living Death
+1 Archfiend of Ifnir
+1 Containment Construct
+1 Collective Brutality
+1 Lush Portico
+1 Reanimate
+1 Shadowy Backstreet
+1 Deep Analysis
+1 Nullpriest of Oblivion
+1 Bloodsoaked Champion
+1 Entomb
+1 Raucous Theater
+1 Meticulous Archive
+1 Mosswood Dreadknight // Dread Whispers
+1 Curator of Mysteries
+1 Shriekmaw
+1 Raffine's Tower
+2 Island
+7 Swamp
+1 Forest
+
+1 Titan of Industry
+1 Keen Duelist
+1 Eradicator Valkyrie
+1 Trostani Discordant
+1 Charismatic Conqueror
+1 Eiganjo, Seat of the Empire
+1 Serra Paragon
+1 Recruitment Officer
+1 Skysovereign, Consul Flagship
+1 Sphinx's Tutelage
+1 Sicarian Infiltrator
+1 Ilharg, the Raze-Boar
+1 Harmonious Archon
+1 Cloudblazer
+1 Lolth, Spider Queen

@@ -1,0 +1,53 @@
+Player: Dendri
+Archetype: Midrange_Mill
+Record: 2-1
+Games: 4.5-2.5
+
+1 Hullbreaker Horror
+1 Fact or Fiction
+1 Black Market Connections
+1 Windfall
+1 Dig Through Time
+1 Watery Grave
+1 Hard Evidence
+1 Hullbreacher
+1 Ornithopter of Paradise
+1 Terramorphic Expanse
+1 Dismember
+1 Toxic Deluge
+1 Hostage Taker
+1 Serum Visions
+1 Jace's Archivist
+1 Oracle of Tragedy
+1 Circuit Mender
+1 Aether Channeler
+1 Doomed Necromancer
+1 Daze
+1 Siren Stormtamer
+1 Ashiok, Dream Render
+1 Faerie Mastermind
+1 Smuggler's Copter
+1 Ghostly Flicker
+1 Narset, Parter of Veils
+1 Sphinx's Tutelage
+6 Island
+9 Swamp
+
+1 Young Pyromancer
+1 Flame Rift
+1 Voldaren Thrillseeker
+1 Tishana's Tidebinder
+1 Iymrith, Desert Doom
+1 Astral Dragon
+1 Confounding Riddle
+1 Expressive Iteration
+1 Xander's Lounge
+1 Scavenger Grounds
+1 Restless Vinestalk
+1 Myr Battlesphere
+1 Nautiloid Ship
+1 Baleful Mastery
+1 Rankle, Master of Pranks
+1 Necron Deathmark
+1 Read the Bones
+1 Hedron Crab

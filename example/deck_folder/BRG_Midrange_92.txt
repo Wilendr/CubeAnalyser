@@ -1,0 +1,54 @@
+Player: William
+Archetype: Midrange_Lands
+Record: 2-1
+Games: 4-3
+
+1 Deceptive Landscape
+1 Hangarback Walker
+1 Once Upon a Time
+1 Fatal Push
+1 Scapeshift
+1 Elvish Reclaimer
+1 Sharp-Eyed Rookie
+1 Goblin Rabblemaster
+1 Conduit of Worlds
+1 Noble Hierarch
+1 Ketria Triome
+1 Ziatora's Proving Ground
+1 Underground Mortuary
+1 Field of the Dead
+1 Commercial District
+1 Toxic Deluge
+1 Éomer, King of Rohan
+1 Syr Ginger, the Meal Ender
+1 Twinshot Sniper
+1 Oliphaunt
+1 Malevolent Rumble
+1 Valakut, the Molten Pinnacle
+1 Sowing Mycospawn
+1 Generous Ent
+1 Marsh Flats
+1 Wrenn and Six
+1 Reckless Impulse
+1 Triarch Praetorian
+1 Unholy Heat
+1 Elegant Parlor
+1 Boseiju, Who Endures
+1 Windswept Heath
+1 Cemetery Gatekeeper
+1 Magda, Brazen Outlaw
+1 Swamp
+4 Mountain
+1 Forest
+
+1 Voldaren Epicure
+1 Gandalf, White Rider
+1 Adeline, Resplendent Cathar
+1 Citizen's Crowbar
+1 Thundering Falls
+1 Bitter Reunion
+1 Rotting Regisaur
+1 Cankerbloom
+1 Foreboding Landscape
+1 Copperline Gorge
+1 Harrow

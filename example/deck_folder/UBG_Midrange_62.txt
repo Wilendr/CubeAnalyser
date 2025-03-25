@@ -1,0 +1,54 @@
+Player: Vegard
+Archetype: Midrange_Reanimator
+Record: 1-2
+Games: 3-4
+
+1 Cauldron Familiar
+1 Witch's Oven
+1 Simic Growth Chamber
+1 Prismatic Vista
+1 Strip Mine
+1 Exsanguinator Cavalry
+1 Overgrown Tomb
+1 Fatal Push
+1 Collector's Vault
+1 Ledger Shredder
+1 Reckoner Bankbuster
+1 Exhume
+1 Feed the Swarm
+1 Phyrexian Fleshgorger
+1 Collective Brutality
+1 Triplicate Titan
+1 Nuka-Cola Vending Machine
+1 Conduit of Worlds
+1 Dread Return
+1 Grave Titan
+1 Grist, the Hunger Tide
+1 Souls of the Lost
+1 Victimize
+1 An Offer You Can't Refuse
+1 Mosswood Dreadknight // Dread Whispers
+1 Life from the Loam
+1 Dismember
+1 Polluted Delta
+1 Underground Mortuary
+2 Island
+7 Swamp
+2 Forest
+
+1 Deathrite Shaman
+1 Moonshaker Cavalry
+1 Echo of Eons
+1 Powder Ganger
+1 Prismari Command
+1 Psychosis Crawler
+1 Harmonious Archon
+1 Primeval Titan
+1 Three Visits
+1 Blossoming Tortoise
+1 Gonti, Lord of Luxury
+1 Living Death
+1 Jace, the Mind Sculptor
+1 Stoic Sphinx
+1 Dig Through Time
+1 Control Magic

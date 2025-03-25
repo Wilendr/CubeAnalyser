@@ -1,0 +1,53 @@
+Player: William
+Archetype: Control
+Record: 2-1
+Games: 4-3
+
+1 Mana Leak
+1 Reanimate
+1 Black Sun's Twilight
+1 Lethal Scheme
+1 Fetid Pools
+1 Spyglass Siren
+1 Toxic Deluge
+1 Hedron Crab
+1 Azure Beastbinder
+1 Feed the Swarm
+1 Thoughtseize
+1 Brainstorm
+1 Polluted Delta
+1 Mockingbird
+1 Bloodline Culling
+1 Echo of Eons
+1 Shelldock Isle
+1 Troll of Khazad-dûm
+1 Victimize
+1 Arcane Denial
+1 Riftwing Cloudskate
+1 Enduring Curiosity
+1 Lazotep Quarry
+1 Archon of Cruelty
+1 Verdant Catacombs
+1 Horizon of Progress
+1 Fatal Push
+1 Overlord of the Balemurk
+1 Brain Maggot
+5 Island
+6 Swamp
+
+1 Cryptbreaker
+1 Faerie Seer
+1 Roaming Throne
+1 Pteramander
+1 Eternal Witness
+1 Sevinne's Reclamation
+1 Tranquil Landscape
+1 Goblin Guide
+1 Treebeard, Gracious Host
+1 Veil of Summer
+1 Declaration in Stone
+1 Authority of the Consuls
+1 Wight of the Reliquary
+1 The Gitrog Monster
+1 Celestial Colonnade
+1 The One Ring

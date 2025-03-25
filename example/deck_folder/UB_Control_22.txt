@@ -1,0 +1,53 @@
+Player: David
+Archetype: Control
+Record: 1-1
+Games: 2-2
+
+1 Deep-Cavern Bat
+1 Displace
+1 Massacre Girl, Known Killer
+1 Cryptic Coat
+1 Body Launderer
+1 Mulldrifter
+1 Scavenged Brawler
+1 Counterspell
+1 Steamcore Scholar
+1 Persist
+1 Phyrexian Tower
+1 Negate
+1 Brazen Borrower // Petty Theft
+1 Prismatic Vista
+1 Jace, the Mind Sculptor
+1 Troll of Khazad-dûm
+1 Oracle of Tragedy
+1 Multiple Choice
+1 Control Magic
+1 Creeping Tar Pit
+1 Confounding Riddle
+1 Shriekmaw
+1 Phantasmal Image
+1 Undead Butler
+1 Chrome Host Seedshark
+1 Plaguecrafter
+1 Ebondeath, Dracolich
+7 Island
+6 Swamp
+
+1 All-Seeing Arbiter
+1 Dark Deal
+1 Jadar, Ghoulcaller of Nephalia
+1 Altar of Dementia
+1 Hogaak, Arisen Necropolis
+1 Ashen Rider
+1 Pilgrim's Eye
+1 Fleecemane Lion
+1 Kiora, Behemoth Beckoner
+1 Gingerbrute
+1 Oliphaunt
+1 Crystalline Crawler
+1 Stomping Ground
+1 Dragonskull Summit
+1 Farseek
+1 Conclave Tribunal
+1 Charismatic Conqueror
+1 Declaration in Stone

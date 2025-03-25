@@ -1,0 +1,53 @@
+Player: Elias
+Archetype: Aggro
+Record: 3-0
+Games: 6-1
+
+1 Pteramander
+1 Firebolt
+1 Burst Lightning
+1 Flame Slash
+1 Breeches, Eager Pillager
+1 Steam Vents
+1 Embercleave
+1 Phantasmal Image
+1 Arid Mesa
+1 Bonecrusher Giant // Stomp
+1 Thieving Skydiver
+1 Malcolm, Alluring Scoundrel
+1 Death-Greeter's Champion
+1 Tishana's Tidebinder
+1 Abrade
+1 Preordain
+1 Consider
+1 Daze
+1 Heart-Piercer Manticore
+1 Monastery Swiftspear
+1 Remand
+1 Misty Rainforest
+1 Goblin Guide
+1 Chain Lightning
+1 Ghostfire Slice
+1 Ragavan, Nimble Pilferer
+1 Earthshaker Khenra
+5 Island
+8 Mountain
+
+1 Riftwing Cloudskate
+1 Ashiok, Dream Render
+1 Elspeth, Sun's Champion
+1 Steamcore Scholar
+1 Stoke the Flames
+1 Smirking Spelljacker
+1 Dragon's Rage Channeler
+1 Commit // Memory
+1 Shark Typhoon
+1 Esper Sentinel
+1 Baral, Chief of Compliance
+1 Saheeli, Sublime Artificer
+1 Curator of Mysteries
+1 Zealous Conscripts
+1 Inquisition of Kozilek
+1 Nullpriest of Oblivion
+1 Through the Breach
+1 Elvish Mystic

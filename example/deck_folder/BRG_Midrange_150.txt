@@ -1,0 +1,54 @@
+Player: Martin
+Archetype: Midrange_Sneak
+Record: 2-1
+Games: 4-2
+
+1 Vaultborn Tyrant
+1 Terror of the Peaks
+1 Mawloc
+1 Raucous Theater
+1 Ketria Triome
+1 Persist
+1 Indatha Triome
+1 Abyssal Harvester
+1 Jetmir's Garden
+1 Prismatic Vista
+1 Éomer, King of Rohan
+1 Voldaren Epicure
+1 Trumpeting Carnosaur
+1 Relic of Sauron
+1 Wood Elves
+1 Liliana, Dreadhorde General
+1 Savai Triome
+1 Agonasaur Rex
+1 Wild Growth
+1 Triplicate Titan
+1 Mizzium Mortars
+1 Smuggler's Surprise
+1 Palantír of Orthanc
+1 Llanowar Elves
+1 Breach the Multiverse
+1 Malevolent Rumble
+1 Xander's Lounge
+1 Farseek
+1 Through the Breach
+1 Zealous Conscripts
+1 Tenacious Underdog
+3 Swamp
+3 Mountain
+4 Forest
+
+1 Wrenn and Six
+1 Parallax Wave
+1 Bloodbraid Elf
+1 Spitting Dilophosaurus
+1 Coveted Jewel
+1 Harrow
+1 Simic Growth Chamber
+1 Sowing Mycospawn
+1 Palace Jailer
+1 Living Death
+1 Bronzebeak Foragers
+1 Raugrin Triome
+1 Isolated Chapel
+1 Duress

@@ -1,0 +1,54 @@
+Player: Brage
+Archetype: Aggro_Stompy
+Record: 0-3
+Games: 0-6
+
+1 Magda, Brazen Outlaw
+1 Sylvan Safekeeper
+1 Bonehoard Dracosaur
+1 Sylvan Library
+1 Tireless Tracker
+1 Breeches, Eager Pillager
+1 Professional Face-Breaker
+1 Academy Manufactor
+1 Sharp-Eyed Rookie
+1 Dryad of the Ilysian Grove
+1 Court of Garenbrig
+1 Utopia Sprawl
+1 Osteomancer Adept
+1 Birds of Paradise
+1 Nissa, Ascended Animist
+1 Lotus Cobra
+1 Elvish Mystic
+1 Sakura-Tribe Elder
+1 Titania's Command
+1 Monastery Swiftspear
+1 Bristlebud Farmer
+1 Hulking Raptor
+1 Beastmaster Ascension
+1 Swamp
+9 Mountain
+10 Forest
+
+1 Spectral Sailor
+1 Restless Prairie
+1 Indatha Triome
+1 Ingenious Prodigy
+1 Kari Zev, Skyship Raider
+1 Lightning Strike
+1 Three Visits
+1 Agatha's Soul Cauldron
+1 Young Pyromancer
+1 Fear, Fire, Foes!
+1 Goldvein Hydra
+1 Magmatic Sinkhole
+1 Burn Down the House
+1 Terror of the Peaks
+1 Commercial District
+1 Sunspine Lynx
+1 Vito, Thorn of the Dusk Rose
+1 Harrow
+1 Sulfuric Vortex
+1 Sandstorm Salvager
+1 Tranquil Frillback
+1 Brotherhood's End

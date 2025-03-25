@@ -1,0 +1,53 @@
+Player: Ruben
+Archetype: Aggro_Reanimator
+Record: 0-3
+Games: 0-6
+
+1 Bloodtithe Harvester
+1 Bonehoard Dracosaur
+1 Archon of Cruelty
+1 Trumpeting Carnosaur
+1 Massacre Girl, Known Killer
+1 Maha, Its Feathers Night
+1 Virtue of Persistence // Locthwain Scorn
+1 Smuggler's Copter
+1 Stalactite Stalker
+1 The One Ring
+1 Victimize
+1 Containment Construct
+1 Tenacious Underdog
+1 Harvester of Misery
+1 Alesha, Who Laughs at Fate
+1 Cryptbreaker
+1 Ash Barrens
+1 Gastal Thrillroller
+1 Living Death
+1 Xander's Lounge
+1 Carnage Interpreter
+1 Mizzium Mortars
+1 Embercleave
+1 Dragon's Rage Channeler
+1 Restless Vents
+1 Unearth
+8 Swamp
+6 Mountain
+
+1 Plaguecrafter
+1 Perilous Landscape
+1 Watery Grave
+1 Ledger Shredder
+1 Edge of Autumn
+1 Hulking Raptor
+1 Three Steps Ahead
+1 Sarkhan, the Dragonspeaker
+1 Windfall
+1 All-Seeing Arbiter
+1 Formless Genesis
+1 Echo of Eons
+1 Siren Stormtamer
+1 Éomer, King of Rohan
+1 Rabbit Battery
+1 Light Up the Stage
+1 Breach the Multiverse
+1 Pia and Kiran Nalaar
+1 Flare of Duplication

@@ -1,0 +1,54 @@
+Player: Ole
+Archetype: Midrange_Graveyard
+Record: 0-3
+Games: 1-6
+
+1 Marsh Flats
+1 Verdurous Gearhulk
+1 Hoarding Broodlord
+1 Vindicate
+1 Bramble Familiar // Fetch Quest
+1 Ravenous Chupacabra
+1 Sunpetal Grove
+1 Elvish Mystic
+1 Urborg Scavengers
+1 Entomb
+1 Indatha Triome
+1 Unearth
+1 Knight of the Ebon Legion
+1 Breach the Multiverse
+1 Dauthi Voidwalker
+1 Agatha's Soul Cauldron
+1 Fatal Push
+1 Lethal Scheme
+1 Grist, the Hunger Tide
+1 Plaguecrafter
+1 Dread Return
+1 Augur of Autumn
+1 Kodama's Reach
+1 Titan of Industry
+1 Greater Tanuki
+1 Farseek
+1 Karmic Guide
+2 Plains
+6 Swamp
+5 Forest
+
+1 Woe Strider
+1 Wrenn and Realmbreaker
+1 Read the Bones
+1 Cankerbloom
+1 Life from the Loam
+1 Caldaia Guardian
+1 Galadriel, Gift-Giver
+1 Pest Infestation
+1 Conduit of Worlds
+1 Dark Deal
+1 Veil of Summer
+1 Deathrite Shaman
+1 Young Pyromancer
+1 Hogaak, Arisen Necropolis
+1 Altar of Dementia
+1 Astral Dragon
+1 Gruff Triplets
+1 Scavenged Brawler

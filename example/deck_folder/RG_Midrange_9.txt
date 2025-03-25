@@ -1,0 +1,53 @@
+Player: Sander
+Archetype: Midrange_Stompy
+Record: 0-3
+Games: 1.5-6
+
+1 Hazoret the Fervent
+1 Monastery Swiftspear
+1 Generous Ent
+1 Oliphaunt
+1 Llanowar Elves
+1 Beanstalk Giant // Fertile Footsteps
+1 Cultivate
+1 Fight Rigging
+1 Caldaia Guardian
+1 Mawloc
+1 Klothys, God of Destiny
+1 Ohran Frostfang
+1 Decadent Dragon // Expensive Taste
+1 Incinerate
+1 Unholy Heat
+1 Hulking Raptor
+1 Legolas's Quick Reflexes
+1 Old One Eye
+1 Augur of Autumn
+1 Renata, Called to the Hunt
+1 Rogue's Passage
+1 Valakut, the Molten Pinnacle
+1 Bonehoard Dracosaur
+1 Glorybringer
+1 Gruff Triplets
+6 Mountain
+9 Forest
+
+1 Leyline Binding
+1 Lose Focus
+1 Dusk Rose Reliquary
+1 Growth Spiral
+1 Serra Paragon
+1 Murderous Rider // Swift End
+1 Restless Cottage
+1 Lightning Strike
+1 Virtue of Courage // Embereth Blaze
+1 Grim Lavamancer
+1 Territorial Kavu
+1 Death-Greeter's Champion
+1 Abbot of Keral Keep
+1 Goblin Bombardment
+1 Shivan Devastator
+1 Light Up the Stage
+1 Coveted Jewel
+1 Crystalline Crawler
+1 Rishkar, Peema Renegade
+1 Farhaven Elf

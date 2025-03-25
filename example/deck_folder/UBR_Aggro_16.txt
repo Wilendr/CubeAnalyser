@@ -1,0 +1,53 @@
+Player: Vegard
+Archetype: Aggro_Reanimator
+Record: 1-2
+Games: 2-5
+
+1 Victimize
+1 Ashen Rider
+1 Exhume
+1 Bitter Triumph
+1 Sneak Attack
+1 Hostage Taker
+1 Ragavan, Nimble Pilferer
+1 Persist
+1 Collective Brutality
+1 Trumpeting Carnosaur
+1 Cathartic Pyre
+1 Souls of the Lost
+1 Verdant Catacombs
+1 Chain Lightning
+1 Fabled Passage
+1 Lórien Revealed
+1 Steam Vents
+1 Voldaren Epicure
+1 Archon of Cruelty
+1 Inferno Titan
+1 Smuggler's Copter
+1 Inti, Seneschal of the Sun
+1 Spitting Dilophosaurus
+1 Troll of Khazad-dûm
+1 Custodi Lich
+1 Contaminated Aquifer
+1 Ilharg, the Raze-Boar
+1 Hullbreaker Horror
+6 Swamp
+6 Mountain
+
+1 Stoke the Flames
+1 Tenacious Underdog
+1 Molten Tributary
+1 Fiery Islet
+1 Fetid Pools
+1 Windfall
+1 Counterspell
+1 Hard Evidence
+1 Ashiok, Dream Render
+1 Ponder
+1 End-Raze Forerunners
+1 Sunlit Marsh
+1 Up the Beanstalk
+1 Tatyova, Benthic Druid
+1 Copperline Gorge
+1 Regrowth
+1 Priest of Fell Rites

@@ -1,0 +1,53 @@
+Player: Amund
+Archetype: Aggro_Ramp
+Record: 1-2
+Games: 4-4
+
+1 Glorybringer
+1 Utopia Sprawl
+1 Bristlebud Farmer
+1 Misty Rainforest
+1 Smuggler's Surprise
+1 Academy Manufactor
+1 Mulldrifter
+1 Flame Slash
+1 Hedge Maze
+1 Thundering Falls
+1 Fanatic of Rhonas
+1 Tireless Tracker
+1 Galadriel, Gift-Giver
+1 Agatha's Soul Cauldron
+1 Biophagus
+1 Toski, Bearer of Secrets
+1 Malevolent Rumble
+1 Goldvein Hydra
+1 Walking Ballista
+1 Restless Vinestalk
+1 Sylvan Safekeeper
+1 Sharp-Eyed Rookie
+1 Arbor Elf
+1 Generous Ent
+1 Trumpeting Carnosaur
+1 Bonehoard Dracosaur
+1 Bloodbraid Elf
+6 Mountain
+7 Forest
+
+1 Ledger Shredder
+1 Thieving Skydiver
+1 Titania's Command
+1 Urabrask's Forge
+1 Skullclamp
+1 Hangarback Walker
+1 Xander's Lounge
+1 Myr Battlesphere
+1 Shivan Devastator
+1 Collected Company
+1 Spirited Companion
+1 Éomer, King of Rohan
+1 Aerial Extortionist
+1 Raucous Theater
+1 Astral Drift
+1 Pia and Kiran Nalaar
+1 Beast Within
+1 Venser, Shaper Savant

@@ -1,0 +1,54 @@
+Player: Anders
+Archetype: Midrange_Ramp
+Record: 0-2
+Games: 1-4
+
+1 Nissa, Resurgent Animist
+1 Restless Vinestalk
+1 Wild Growth
+1 Escape Tunnel
+1 Ornithopter of Paradise
+1 Tireless Provisioner
+1 Conduit of Worlds
+1 Hulking Raptor
+1 Nullpriest of Oblivion
+1 Primeval Titan
+1 Grist, the Hunger Tide
+1 Virtue of Persistence // Locthwain Scorn
+1 Emergence Zone
+1 Solemn Simulacrum
+1 Dryad of the Ilysian Grove
+1 Cankerbloom
+1 Sentinel of the Nameless City
+1 Uro, Titan of Nature's Wrath
+1 Nissa, Who Shakes the World
+1 Grave Titan
+1 Terramorphic Expanse
+1 Simic Growth Chamber
+1 Restless Cottage
+1 Liliana, Dreadhorde General
+1 Fall from Favor
+1 Bramble Familiar // Fetch Quest
+1 Augur of Autumn
+1 Agatha's Soul Cauldron
+1 Birds of Paradise
+1 Island
+4 Swamp
+6 Forest
+
+1 Stonecoil Serpent
+1 Kodama's Reach
+1 Oracle of Mul Daya
+1 Harrow
+1 World Shaper
+1 Displacer Kitten
+1 Persist
+1 Farewell
+1 Esika's Chariot
+1 Sail into the West
+1 Dragonskull Summit
+1 Restless Vents
+1 Skewer the Critics
+1 Negate
+1 Ashen Rider
+1 Veil of Summer

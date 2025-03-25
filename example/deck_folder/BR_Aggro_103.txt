@@ -1,0 +1,53 @@
+Player: Jostein
+Archetype: Aggro
+Record: 1-2
+Games: 2-5
+
+1 Knight of the Ebon Legion
+1 Bloodtithe Harvester
+1 Hostile Investigator
+1 Bloodsoaked Champion
+1 Reckless Impulse
+1 Cryptbreaker
+1 Urborg Scavengers
+1 Kolaghan's Command
+1 Nullpriest of Oblivion
+1 Abrade
+1 Professional Face-Breaker
+1 Spitting Dilophosaurus
+1 Urabrask's Forge
+1 Restless Vents
+1 Rankle, Master of Pranks
+1 Ravenous Chupacabra
+1 Victimize
+1 Crabomination
+1 Baleful Mastery
+1 Undead Butler
+1 Cemetery Gatekeeper
+1 Triarch Praetorian
+1 Brain Maggot
+1 Rabbit Battery
+1 Collective Brutality
+9 Swamp
+7 Mountain
+
+1 Cathartic Pyre
+1 Lightning Strike
+1 Dreadhorde Arcanist
+1 Fear, Fire, Foes!
+1 Vito, Thorn of the Dusk Rose
+1 Flare of Duplication
+1 Seasoned Pyromancer
+1 Goblin Cratermaker
+1 Metallic Mimic
+1 Containment Construct
+1 Body Launderer
+1 Valakut, the Molten Pinnacle
+1 Fiery Islet
+1 Restless Bivouac
+1 Virtue of Loyalty // Ardenvale Fealty
+1 Meticulous Archive
+1 Birthing Ritual
+1 Brazen Borrower // Petty Theft
+1 Sandstorm Salvager
+1 Narset, Parter of Veils

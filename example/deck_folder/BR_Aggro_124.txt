@@ -1,0 +1,53 @@
+Player: Tor
+Archetype: Aggro
+Record: 2-1
+Games: 5-4
+
+1 Liliana, Dreadhorde General
+1 Tinybones, the Pickpocket
+1 Knight of the Ebon Legion
+1 Rankle, Master of Pranks
+1 Dark Confidant
+1 Alesha, Who Laughs at Fate
+1 Cemetery Gatekeeper
+1 Voldaren Epicure
+1 Untimely Malfunction
+1 Robber of the Rich
+1 Burn Down the House
+1 Zealous Conscripts
+1 Embercleave
+1 Cathartic Pyre
+1 Flametongue Kavu
+1 Sulfuric Vortex
+1 Twinshot Sniper
+1 Heart-Piercer Manticore
+1 Stoke the Flames
+1 Lavaspur Boots
+1 Breeches, Eager Pillager
+1 Professional Face-Breaker
+1 Kari Zev, Skyship Raider
+1 Light Up the Stage
+8 Swamp
+8 Mountain
+
+1 Containment Construct
+1 Faithless Looting
+1 Faerie Dreamthief
+1 Gix's Command
+1 Roaming Throne
+1 Saheeli, Sublime Artificer
+1 Wrenn's Resolve
+1 Goblin Guide
+1 Figure of Destiny
+1 Halana and Alena, Partners
+1 Raging Ravine
+1 Valakut, the Molten Pinnacle
+1 Escape Tunnel
+1 Sylvan Library
+1 Harrow
+1 All-Seeing Arbiter
+1 Elegant Parlor
+1 Eagles of the North
+1 Recruitment Officer
+1 Ingenious Prodigy
+1 Spirited Companion

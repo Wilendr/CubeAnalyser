@@ -1,0 +1,53 @@
+Player: Vegard
+Archetype: Midrange
+Record: 2-1
+Games: 5-3
+
+1 Deep-Cavern Bat
+1 Malcolm, Alluring Scoundrel
+1 Polluted Delta
+1 Thoughtseize
+1 Gix's Command
+1 Go for the Throat
+1 Bitterblossom
+1 Ponder
+1 Preacher of the Schism
+1 Dig Through Time
+1 Ledger Shredder
+1 Cryptic Coat
+1 Dauthi Voidwalker
+1 Thief of Sanity
+1 Undercity Sewers
+1 Unearth
+1 Remand
+1 Bone Shards
+1 Eradicator Valkyrie
+1 Kitesail Larcenist
+1 Fatal Push
+1 Watery Grave
+1 Subterranean Schooner
+1 Spyglass Siren
+1 Chrome Host Seedshark
+1 Ebondeath, Dracolich
+6 Island
+8 Swamp
+
+1 Underground Mortuary
+1 Tribune of Rot
+1 Hullbreaker Horror
+1 Woe Strider
+1 Unburial Rites
+1 Swords to Plowshares
+1 Luminarch Aspirant
+1 Get Lost
+1 Isolated Chapel
+1 Windswept Heath
+1 Approach of the Second Sun
+1 Blade Splicer
+1 Bloodtithe Harvester
+1 Cryptbreaker
+1 The Goose Mother
+1 Ghostly Flicker
+1 Astral Drift
+1 Sphinx's Tutelage
+1 Notion Thief

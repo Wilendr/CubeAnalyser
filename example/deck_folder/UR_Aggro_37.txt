@@ -1,0 +1,54 @@
+Player: William
+Archetype: Aggro_Spellslinger
+Record: 2-1
+Games: 4-2
+
+1 Fractured Identity
+1 Ardent Elementalist
+1 Lórien Revealed
+1 Aether Channeler
+1 Saheeli, Sublime Artificer
+1 Chrome Host Seedshark
+1 Riftwing Cloudskate
+1 Krenko, Tin Street Kingpin
+1 Scalding Viper // Steam Clean
+1 Prairie Stream
+1 Lightning Bolt
+1 Shark Typhoon
+1 Fall from Favor
+1 Bonecrusher Giant // Stomp
+1 Stoke the Flames
+1 Prismari Command
+1 Abrade
+1 Scalding Tarn
+1 Thundering Falls
+1 Mana Leak
+1 Snapcaster Mage
+1 Steamcore Scholar
+1 Glorybringer
+1 Fabled Passage
+1 Malcolm, Alluring Scoundrel
+1 Mercurial Spelldancer
+1 Hard Evidence
+1 Magmatic Sinkhole
+1 Torrential Gearhulk
+1 Polluted Delta
+2 Plains
+4 Island
+4 Mountain
+
+1 Serum Visions
+1 Remand
+1 Virtue of Courage // Embereth Blaze
+1 Multiple Choice
+1 Mikaeus, the Lunarch
+1 Storm-Kiln Artist
+1 Arbor Elf
+1 Tatyova, Benthic Druid
+1 Restless Vinestalk
+1 Conclave Tribunal
+1 Breeding Pool
+1 Usher of the Fallen
+1 Stomping Ground
+1 Walking Ballista
+1 Chandra, Torch of Defiance

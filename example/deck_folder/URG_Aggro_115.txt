@@ -1,0 +1,54 @@
+Player: Oliver
+Archetype: Aggro
+Record: 2-1
+Games: 4-3
+
+1 Halana and Alena, Partners
+1 Goblin Cratermaker
+1 Ketria Triome
+1 Simic Growth Chamber
+1 Raging Ravine
+1 Wrenn and Six
+1 Siren Stormtamer
+1 Springheart Nantuko
+1 Thundering Falls
+1 Phantasmal Image
+1 Mulldrifter
+1 Hullbreacher
+1 Preordain
+1 Ponder
+1 Strip Mine
+1 Oliphaunt
+1 Crop Rotation
+1 Expressive Iteration
+1 Reckless Impulse
+1 Llanowar Elves
+1 Birthing Ritual
+1 Nadu, Winged Wisdom
+1 Trumpeting Carnosaur
+1 Rishkar, Peema Renegade
+1 Questing Beast
+1 Bristly Bill, Spine Sower
+1 Cemetery Gatekeeper
+1 Arboreal Grazer
+1 Bloodbraid Elf
+1 Smirking Spelljacker
+1 Horizon of Progress
+1 Prismatic Vista
+1 Misty Rainforest
+1 Island
+2 Mountain
+4 Forest
+
+1 Life from the Loam
+1 Faerie Seer
+1 Lonis, Genetics Expert
+1 Cankerbloom
+1 Flametongue Kavu
+1 Twisted Landscape
+1 Pteramander
+1 Felidar Guardian
+1 Seasoned Pyromancer
+1 Fiery Confluence
+1 Icefall Regent
+1 Heart-Piercer Manticore

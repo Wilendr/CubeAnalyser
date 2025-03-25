@@ -1,0 +1,54 @@
+Player: William
+Archetype: Aggro_Reanimator
+Record: 2-1
+Games: 4-3
+
+1 Necromancy
+1 Pest Infestation
+1 Lethal Scheme
+1 Persist
+1 Mawloc
+1 Death-Greeter's Champion
+1 Overgrown Tomb
+1 Copperline Gorge
+1 Troll of Khazad-dûm
+1 Vaultborn Tyrant
+1 Harvester of Misery
+1 Urabrask's Forge
+1 Bloodstained Mire
+1 Dragonskull Summit
+1 Hazoret the Fervent
+1 Fanatic of Rhonas
+1 Bloodtithe Harvester
+1 Malevolent Rumble
+1 Bitter Triumph
+1 Rankle, Master of Pranks
+1 Deep-Cavern Bat
+1 Biophagus
+1 Archon of Cruelty
+1 Duress
+1 Stomping Ground
+1 Lightning Bolt
+1 Collective Brutality
+1 Keen Duelist
+1 Underground Mortuary
+1 Triplicate Titan
+4 Swamp
+3 Mountain
+3 Forest
+
+1 Untimely Malfunction
+1 Underworld Breach
+1 Nissa, Who Shakes the World
+1 Warren Soultrader
+1 Six
+1 Eternal Witness
+1 Plaguecrafter
+1 The Gitrog Monster
+1 Tenacious Underdog
+1 Nullpriest of Oblivion
+1 Elvish Reclaimer
+1 Izzet Boilerworks
+1 Kitsa, Otterball Elite
+1 Contest of Claws
+1 Incinerate

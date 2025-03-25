@@ -1,0 +1,53 @@
+Player: Anders
+Archetype: Midrange_Mill
+Record: 2-1
+Games: 5-3
+
+1 Containment Construct
+1 Mana Leak
+1 Narset, Parter of Veils
+1 Malcolm, Alluring Scoundrel
+1 Black Market Connections
+1 Murderous Rider // Swift End
+1 Dismember
+1 Aether Channeler
+1 Spyglass Siren
+1 Faerie Mastermind
+1 Brainstorm
+1 Hedron Crab
+1 Echo of Eons
+1 Snapcaster Mage
+1 Venser, Shaper Savant
+1 Languish
+1 Notion Thief
+1 Hullbreacher
+1 Syr Konrad, the Grim
+1 Ledger Shredder
+1 Mulldrifter
+1 Jace, the Mind Sculptor
+1 Sphinx's Tutelage
+9 Island
+8 Swamp
+
+1 Liliana, Waker of the Dead
+1 Cryptbreaker
+1 Cryptic Coat
+1 Negate
+1 Pongify
+1 Morbid Opportunist
+1 Mimic Vat
+1 Circuit Mender
+1 Tishana's Tidebinder
+1 Body Launderer
+1 Confounding Riddle
+1 Cryptic Command
+1 Fact or Fiction
+1 Dig Through Time
+1 Niblis of Frost
+1 Third Path Iconoclast
+1 Dragonskull Summit
+1 Topiary Stomper
+1 Utopia Sprawl
+1 Elder Gargaroth
+1 Dryad of the Ilysian Grove
+1 Soul-Scar Mage

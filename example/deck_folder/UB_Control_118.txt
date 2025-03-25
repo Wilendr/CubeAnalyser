@@ -1,0 +1,53 @@
+Player: Ruben
+Archetype: Control_Reanimator
+Record: 1-2
+Games: 3-4
+
+1 Murktide Regent
+1 Archaeomancer
+1 Echo of Eons
+1 All-Seeing Arbiter
+1 Ashiok, Dream Render
+1 Victimize
+1 Rotting Regisaur
+1 Three Steps Ahead
+1 Dread Return
+1 Deep Analysis
+1 Virtue of Persistence // Locthwain Scorn
+1 Liliana, Dreadhorde General
+1 Animate Dead
+1 Arcane Denial
+1 Living Death
+1 Counterspell
+1 Go for the Throat
+1 Containment Priest
+1 Hostile Investigator
+1 Bone Shards
+1 Ledger Shredder
+1 Valgavoth, Terror Eater
+1 Consider
+1 Lórien Revealed
+8 Island
+8 Swamp
+
+1 Commit // Memory
+1 Glen Elendra Archmage
+1 Vendilion Clique
+1 Memory Deluge
+1 Unearth
+1 Shark Typhoon
+1 Touch the Spirit Realm
+1 Brainstorm
+1 Temple Garden
+1 Dig Through Time
+1 Saw in Half
+1 Aether Channeler
+1 Murderous Redcap
+1 Uro, Titan of Nature's Wrath
+1 Assault Intercessor
+1 Jacked Rabbit
+1 Through the Breach
+1 Scapeshift
+1 Floodpits Drowner
+1 Noxious Gearhulk
+1 Dress Down

@@ -1,0 +1,53 @@
+Player: Martin
+Archetype: Aggro_Spellslinger
+Record: 1-2
+Games: 3-5
+
+1 Faithless Looting
+1 Tishana's Tidebinder
+1 Bonehoard Dracosaur
+1 Embercleave
+1 Firebolt
+1 Memory Deluge
+1 Unholy Heat
+1 Krenko, Tin Street Kingpin
+1 Sicarian Infiltrator
+1 Chain Lightning
+1 Spectral Sailor
+1 Steam Vents
+1 Robber of the Rich
+1 Commit // Memory
+1 Grim Lavamancer
+1 Abrade
+1 Counterspell
+1 Bloodstained Mire
+1 Young Pyromancer
+1 Make Disappear
+1 Mulldrifter
+1 Snapcaster Mage
+1 Expressive Iteration
+1 Pia and Kiran Nalaar
+1 Slickshot Show-Off
+1 Consider
+7 Island
+7 Mountain
+
+1 Underworld Breach
+1 Watery Grave
+1 Talon Gates of Madara
+1 Circuit Mender
+1 Elvish Reclaimer
+1 Figure of Destiny
+1 Contaminated Landscape
+1 Reprieve
+1 Toski, Bearer of Secrets
+1 Elspeth, Sun's Champion
+1 Bloodsoaked Champion
+1 Dragonskull Summit
+1 Mishra's Factory
+1 Wrenn's Resolve
+1 Ziatora's Proving Ground
+1 Steamcore Scholar
+1 Tarfire
+1 Glare of Subdual
+1 Baral's Expertise

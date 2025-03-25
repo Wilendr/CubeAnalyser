@@ -1,0 +1,55 @@
+Player: Gaute
+Archetype: Midrange_Stompy
+Record: 1-2
+Games: 4-4
+
+1 Hellrider
+1 Evolving Wilds
+1 Gilded Goose
+1 Lightning Strike
+1 Sakura-Tribe Elder
+1 Bushwhack
+1 Wooded Foothills
+1 Raging Ravine
+1 Geothermal Bog
+1 Grim Lavamancer
+1 Shadow in the Warp
+1 Stomping Ground
+1 Jadelight Spelunker
+1 Flame Rift
+1 Shivan Devastator
+1 Cauldron Familiar
+1 Pilgrim's Eye
+1 Murderous Redcap
+1 Dragon's Rage Channeler
+1 Charming Scoundrel
+1 Ziatora's Proving Ground
+1 Magmatic Galleon
+1 Unholy Heat
+1 Crystalline Crawler
+1 Skullclamp
+1 Flametongue Kavu
+1 Glorybringer
+1 Reanimate
+1 Bitterblossom
+1 Swamp
+6 Mountain
+4 Forest
+
+1 Living Death
+1 Swamp
+1 Braids, Arisen Nightmare
+1 Sulfuric Vortex
+1 Brotherhood's End
+1 Saheeli, Sublime Artificer
+1 Farewell
+1 Approach of the Second Sun
+1 Three Visits
+1 Dockside Chef
+1 Wild Growth
+1 The Reaver Cleaver
+1 Undead Butler
+1 Renegade Freighter
+1 Mayhem Devil
+1 Priest of Forgotten Gods
+1 Coveted Jewel

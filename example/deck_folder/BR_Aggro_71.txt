@@ -1,0 +1,53 @@
+Player: Markus
+Archetype: Aggro
+Record: 2-1
+Games: 5-3
+
+1 Captain Lannery Storm
+1 Flametongue Kavu
+1 Hazoret the Fervent
+1 Fiery Confluence
+1 Rabbit Battery
+1 Arid Mesa
+1 Voldaren Thrillseeker
+1 Dragonskull Summit
+1 Fiery Islet
+1 Hellrider
+1 Magda, Brazen Outlaw
+1 Flame Rift
+1 Urborg Scavengers
+1 Bitterblossom
+1 Orcish Bowmasters
+1 Lightning Bolt
+1 Carnage Interpreter
+1 Rankle, Master of Pranks
+1 Burst Lightning
+1 Bonecrusher Giant // Stomp
+1 Grim Lavamancer
+1 Goblin Guide
+1 Shattered Landscape
+1 Kari Zev, Skyship Raider
+1 Robber of the Rich
+1 Ghostfire Slice
+1 Sulfuric Vortex
+1 Goblin Bombardment
+6 Swamp
+6 Mountain
+
+1 Stalactite Stalker
+1 Syr Ginger, the Meal Ender
+1 Fear, Fire, Foes!
+1 Voldaren Epicure
+1 Murderous Redcap
+1 Cauldron Familiar
+1 Parallax Wave
+1 Duress
+1 Yahenni's Expertise
+1 All-Seeing Arbiter
+1 Yawgmoth's Will
+1 Securitron Squadron
+1 Raging Ravine
+1 Curator of Mysteries
+1 Hostile Investigator
+1 Collective Defiance
+1 Bloodsoaked Champion

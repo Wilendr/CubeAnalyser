@@ -1,0 +1,54 @@
+Player: Elias
+Archetype: Control_Ramp
+Record: 2-1
+Games: 5-2
+
+1 Hullbreacher
+1 Bountiful Landscape
+1 Noble Hierarch
+1 Ertai Resurrected
+1 Toxic Deluge
+1 Bristly Bill, Spine Sower
+1 Tireless Tracker
+1 Mana Leak
+1 Daze
+1 Malcolm, Alluring Scoundrel
+1 Remand
+1 Arbor Elf
+1 Preordain
+1 Argentum Masticore
+1 Crucible of Worlds
+1 Boseiju, Who Endures
+1 Zagoth Triome
+1 Utopia Sprawl
+1 Shark Typhoon
+1 Once Upon a Time
+1 Infernal Grasp
+1 Esika's Chariot
+1 Chart a Course
+1 Control Magic
+1 Fetid Pools
+1 Strip Mine
+1 Thragtusk
+1 Accursed Marauder
+1 Biophagus
+3 Island
+2 Swamp
+6 Forest
+
+1 Torrential Gearhulk
+1 Windfall
+1 Tinybones, the Pickpocket
+1 Hangarback Walker
+1 Reckoner Bankbuster
+1 Palantír of Orthanc
+1 Brainstorm
+1 Malevolent Rumble
+1 Spell Pierce
+1 Ornithopter of Paradise
+1 Assault Intercessor
+1 Magda, Brazen Outlaw
+1 Spectral Sailor
+1 Coveted Jewel
+1 Three Visits
+1 Echo of Eons

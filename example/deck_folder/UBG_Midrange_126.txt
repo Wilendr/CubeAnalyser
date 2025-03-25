@@ -1,0 +1,54 @@
+Player: Ingebrigt
+Archetype: Midrange_Ramp
+Record: 1-2
+Games: 3-4
+
+1 Sylvan Safekeeper
+1 Hedron Crab
+1 Arbor Elf
+1 Springheart Nantuko
+1 Biophagus
+1 Fanatic of Rhonas
+1 Tireless Provisioner
+1 Sicarian Infiltrator
+1 Tishana's Tidebinder
+1 Spitting Dilophosaurus
+1 Hulking Raptor
+1 Hedge Shredder
+1 Generous Ent
+1 Primeval Titan
+1 Archon of Cruelty
+1 Zagoth Triome
+1 Simic Growth Chamber
+1 Hedge Maze
+1 Undercity Sewers
+1 Altar of Dementia
+1 Three Visits
+1 Heroic Intervention
+1 Jace, the Mind Sculptor
+1 Memory Deluge
+1 Breach the Multiverse
+1 The Goose Mother
+1 Smuggler's Surprise
+6 Island
+1 Swamp
+6 Forest
+
+1 Baleful Strix
+1 Kitsa, Otterball Elite
+1 Soulherder
+1 Wood Elves
+1 Nadu, Winged Wisdom
+1 Toski, Bearer of Secrets
+1 Stoic Sphinx
+1 Caldaia Guardian
+1 Archaeomancer
+1 Mulldrifter
+1 Mikaeus, the Lunarch
+1 Sheltering Landscape
+1 Veil of Summer
+1 Ghostly Flicker
+1 Sphinx's Tutelage
+1 Deep Analysis
+1 Echo of Eons
+1 Magmatic Sinkhole

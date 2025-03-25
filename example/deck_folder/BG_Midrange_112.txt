@@ -1,0 +1,53 @@
+Player: Jostein
+Archetype: Midrange_Graveyard
+Record: 0-3
+Games: 0-6
+
+1 Tranquil Frillback
+1 Old One Eye
+1 Nissa, Ascended Animist
+1 Fanatic of Rhonas
+1 Verdant Catacombs
+1 Stalactite Stalker
+1 Six
+1 Galadriel, Gift-Giver
+1 Tireless Tracker
+1 Academy Manufactor
+1 Scavenged Brawler
+1 Boseiju, Who Endures
+1 Rishkar, Peema Renegade
+1 Tranquil Landscape
+1 Beast Within
+1 Strip Mine
+1 Sakura-Tribe Elder
+1 Heroic Intervention
+1 Court of Garenbrig
+1 Spitting Dilophosaurus
+1 Bristly Bill, Spine Sower
+1 Wight of the Reliquary
+1 Agatha's Soul Cauldron
+1 Conduit of Worlds
+1 Overwhelming Stampede
+1 Lonis, Genetics Expert
+1 Three Visits
+1 Bitterblossom
+4 Swamp
+9 Forest
+
+1 Regrowth
+1 Flare of Cultivation
+1 Simic Growth Chamber
+1 Black Sun's Twilight
+1 Farseek
+1 Altar of Dementia
+1 Life from the Loam
+1 Beastmaster Ascension
+1 Liliana, Dreadhorde General
+1 Wrath of God
+1 The Wandering Emperor
+1 Hopeful Initiate
+1 Ghostfire Slice
+1 Robber of the Rich
+1 Elspeth, Sun's Champion
+1 Riftwing Cloudskate
+1 Malcolm, Alluring Scoundrel

@@ -1,0 +1,53 @@
+Player: Oskar
+Archetype: Aggro_Tokens
+Record: 0-2
+Games: 1-5
+
+1 Carnage Interpreter
+1 Fear of Missing Out
+1 Urborg Scavengers
+1 Stridehangar Automaton
+1 Agatha's Soul Cauldron
+1 Shivan Devastator
+1 Escape Tunnel
+1 Seething Landscape
+1 Blood Crypt
+1 Orcish Bowmasters
+1 Dragon's Rage Channeler
+1 Fiery Confluence
+1 Stoke the Flames
+1 Collector's Vault
+1 Shattered Landscape
+1 Burst Lightning
+1 Warren Soultrader
+1 Exsanguinator Cavalry
+1 Alesha, Who Laughs at Fate
+1 Kolaghan's Command
+1 Stalactite Stalker
+1 Cemetery Gatekeeper
+1 Captain Lannery Storm
+1 Virtue of Persistence // Locthwain Scorn
+1 Retrofitter Foundry
+1 Rabbit Battery
+1 Glorybringer
+7 Swamp
+6 Mountain
+
+1 Sulfuric Vortex
+1 Nullpriest of Oblivion
+1 Sunspine Lynx
+1 Animate Dead
+1 Unearth
+1 Kari Zev, Skyship Raider
+1 Rotting Rats
+1 Saw in Half
+1 Metallic Mimic
+1 Raging Ravine
+1 Hired Claw
+1 Contest of Claws
+1 Crop Rotation
+1 Goblin Cratermaker
+1 Bountiful Landscape
+1 Once Upon a Time
+1 Archaeomancer
+1 Formless Genesis

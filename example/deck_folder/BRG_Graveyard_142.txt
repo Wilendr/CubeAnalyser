@@ -1,0 +1,54 @@
+Player: Bent
+Archetype: Midrange_Graveyard
+Record: 2-1
+Games: 4-3
+
+1 Deathrite Shaman
+1 Incubation Druid
+1 Rankle, Master of Pranks
+1 Kitchen Finks
+1 Bloodbraid Elf
+1 Exhume
+1 Tireless Tracker
+1 Seething Landscape
+1 Escape Tunnel
+1 Ziatora's Proving Ground
+1 Flame Slash
+1 Faithless Looting
+1 Sheoldred's Edict
+1 Sheltering Landscape
+1 Feed the Swarm
+1 Wooded Foothills
+1 Utopia Sprawl
+1 Twisted Landscape
+1 Raging Ravine
+1 Commercial District
+1 Takenuma, Abandoned Mire
+1 Sowing Mycospawn
+1 Goldvein Hydra
+1 Arid Mesa
+1 Temple Garden
+1 Primeval Titan
+1 Liliana, Dreadhorde General
+1 Phyrexian Fleshgorger
+1 Toxic Deluge
+1 Woodland Cemetery
+1 Arbor Elf
+1 Magmatic Sinkhole
+1 The Gitrog Monster
+1 Sylvan Safekeeper
+1 Thorn of the Black Rose
+2 Swamp
+2 Mountain
+1 Forest
+
+1 Nadu, Winged Wisdom
+1 Untimely Malfunction
+1 Bristlebud Farmer
+1 Shadowy Backstreet
+1 Rottenmouth Viper
+1 Cauldron Familiar
+1 Cathar Commando
+1 Thragtusk
+1 Fear, Fire, Foes!
+1 Warren Soultrader

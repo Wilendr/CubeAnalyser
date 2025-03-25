@@ -1,0 +1,54 @@
+Player: Vegard
+Archetype: Midrange
+Record: 2-1
+Games: 4-3
+
+1 Flametongue Kavu
+1 Thundering Falls
+1 Wooded Foothills
+1 Xander's Lounge
+1 Deep-Cavern Bat
+1 Arcane Denial
+1 Blood Crypt
+1 Fact or Fiction
+1 Daze
+1 Orcish Bowmasters
+1 Voldaren Thrillseeker
+1 Shelldock Isle
+1 Goblin Cratermaker
+1 Kitesail Larcenist
+1 Mercurial Spelldancer
+1 Immersturm Predator
+1 Fiery Confluence
+1 Mystic Confluence
+1 Consider
+1 Icefall Regent
+1 Death-Greeter's Champion
+1 Spyglass Siren
+1 Earthshaker Khenra
+1 Robber of the Rich
+1 Prismari Command
+1 Watery Grave
+1 Undercity Sewers
+1 Restless Vents
+1 Windfall
+1 Dismember
+1 Benthic Biomancer
+5 Island
+1 Swamp
+3 Mountain
+
+1 Snapcaster Mage
+1 Anzrag, the Quake-Mole
+1 Deepfathom Echo
+1 Grist, the Hunger Tide
+1 Entomb
+1 Cloudgoat Ranger
+1 Scavenging Ooze
+1 Fateful Absence
+1 Triplicate Titan
+1 Verdurous Gearhulk
+1 Altar of Dementia
+1 Priest of Fell Rites
+1 Iymrith, Desert Doom
+1 Hedron Crab

@@ -1,0 +1,54 @@
+Player: Vegard
+Archetype: Aggro_Reanimator
+Record: 2-1
+Games: 4-3
+
+1 Feed the Swarm
+1 Stoic Sphinx
+1 Keen Duelist
+1 Kitsa, Otterball Elite
+1 Necromancy
+1 Gix's Command
+1 Animate Dead
+1 Fall from Favor
+1 Seething Landscape
+1 Inquisition of Kozilek
+1 Duress
+1 Polluted Delta
+1 Ziatora's Proving Ground
+1 Lórien Revealed
+1 Kitesail Larcenist
+1 Floodpits Drowner
+1 Oliphaunt
+1 Glen Elendra Archmage
+1 Currency Converter
+1 Dragon's Rage Channeler
+1 Black Sun's Twilight
+1 Dismember
+1 Lose Focus
+1 Mystic Confluence
+1 Snapcaster Mage
+1 Steam Vents
+1 Blood Crypt
+1 Thundering Falls
+1 Ragavan, Nimble Pilferer
+1 Mercurial Spelldancer
+1 Murderous Redcap
+4 Island
+4 Swamp
+1 Mountain
+
+1 Hard Evidence
+1 Stoke the Flames
+1 Dryad of the Ilysian Grove
+1 Saheeli, Sublime Artificer
+1 Exhume
+1 Sylvan Safekeeper
+1 Sneak Attack
+1 Time Wipe
+1 Underworld Breach
+1 Ashen Rider
+1 Persist
+1 Goblin Bombardment
+1 Faithless Looting
+1 Voldaren Epicure

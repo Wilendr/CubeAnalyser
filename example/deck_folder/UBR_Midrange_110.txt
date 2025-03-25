@@ -1,0 +1,54 @@
+Player: William
+Archetype: Midrange_Reanimator
+Record: 1-2
+Games: 3-4
+
+1 Fatal Push
+1 Polluted Delta
+1 Xander's Lounge
+1 Reanimate
+1 Bone Shards
+1 Sicarian Infiltrator
+1 Inti, Seneschal of the Sun
+1 Mana Leak
+1 Creeping Tar Pit
+1 Thundering Falls
+1 Collector's Vault
+1 Fabled Passage
+1 Faithless Looting
+1 Rabbit Battery
+1 Professional Face-Breaker
+1 Remand
+1 Dismember
+1 Mystic Confluence
+1 Steamcore Scholar
+1 Ponder
+1 Prismatic Vista
+1 Myr Battlesphere
+1 Necromancy
+1 Archfiend of Ifnir
+1 Ashen Rider
+1 Virtue of Persistence // Locthwain Scorn
+1 Harvester of Misery
+1 Currency Converter
+1 Exhume
+1 Undercity Sewers
+3 Island
+4 Swamp
+3 Mountain
+
+1 Crystalline Crawler
+1 Icefall Regent
+1 Baral's Expertise
+1 Fateful Absence
+1 Karmic Guide
+1 March of Otherworldly Light
+1 Staff of the Storyteller
+1 Authority of the Consuls
+1 Stomping Ground
+1 Ghostly Flicker
+1 Gala Greeters
+1 Dark Confidant
+1 Victimize
+1 Occult Epiphany
+1 Dress Down

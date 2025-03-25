@@ -1,0 +1,53 @@
+Player: Morten
+Archetype: Midrange_Spellslinger
+Record: 2-1
+Games: 5-4
+
+1 Arid Mesa
+1 Relic of Sauron
+1 Displacer Kitten
+1 Guttersnipe
+1 Occult Epiphany
+1 Sphinx's Tutelage
+1 Roaming Throne
+1 Stormsplitter
+1 Spectral Sailor
+1 Stridehangar Automaton
+1 Perilous Landscape
+1 Hard Evidence
+1 Azure Beastbinder
+1 Kitsa, Otterball Elite
+1 Chrome Host Seedshark
+1 Fiery Islet
+1 Generous Plunderer
+1 Reckless Impulse
+1 Preordain
+1 Murktide Regent
+1 Commit // Memory
+1 Mizzium Mortars
+1 Prismari Command
+1 Unholy Heat
+1 Arcane Denial
+1 Expressive Iteration
+1 Thundering Falls
+1 Remand
+1 The One Ring
+1 Meticulous Archive
+1 Underworld Breach
+7 Island
+6 Mountain
+
+1 Contaminated Landscape
+1 Shark Typhoon
+1 Authority of the Consuls
+1 Conclave Tribunal
+1 Arboreal Grazer
+1 Pteramander
+1 Infernal Grasp
+1 Soul Partition
+1 Bronzebeak Foragers
+1 Soulherder
+1 Aether Channeler
+1 Ghostly Flicker
+1 Containment Construct
+1 Crucible of Worlds

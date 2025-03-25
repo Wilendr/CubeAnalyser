@@ -1,0 +1,53 @@
+Player: Grim
+Archetype: Aggro
+Record: 2-1
+Games: 4-2
+
+1 Murderous Redcap
+1 Valakut, the Molten Pinnacle
+1 Sarkhan, the Dragonspeaker
+1 Chandra, Torch of Defiance
+1 Light Up the Stage
+1 Ragavan, Nimble Pilferer
+1 Grim Lavamancer
+1 Goblin Guide
+1 Bonehoard Dracosaur
+1 Heart-Piercer Manticore
+1 Zealous Conscripts
+1 Screaming Nemesis
+1 Cemetery Gatekeeper
+1 Goblin Cratermaker
+1 Slickshot Show-Off
+1 Firebolt
+1 Tarfire
+1 Young Pyromancer
+1 Scapeshift
+1 Fiery Confluence
+1 Circuit Mender
+1 Lightning Strike
+1 Bonecrusher Giant // Stomp
+1 Reckless Impulse
+1 Wrenn's Resolve
+12 Mountain
+3 Forest
+
+1 Pia and Kiran Nalaar
+1 Kari Zev, Skyship Raider
+1 Goblin Bombardment
+1 Maha, Its Feathers Night
+1 Massacre Girl, Known Killer
+1 Osteomancer Adept
+1 Tenacious Underdog
+1 Cryptbreaker
+1 Dragonskull Summit
+1 Raucous Theater
+1 Kolaghan's Command
+1 Bristlebud Farmer
+1 Titania, Protector of Argoth
+1 Vaultborn Tyrant
+1 Sowing Mycospawn
+1 Syr Ginger, the Meal Ender
+1 Hedron Crab
+1 Warden of the Inner Sky
+1 Isolated Chapel
+1 Argentum Masticore

@@ -1,0 +1,54 @@
+Player: Aksel
+Archetype: Midrange
+Record: 1-2
+Games: 2-5
+
+1 Birds of Paradise
+1 Eradicator Valkyrie
+1 Iymrith, Desert Doom
+1 Syr Konrad, the Grim
+1 Tatyova, Benthic Druid
+1 Torrential Gearhulk
+1 Cankerbloom
+1 Simic Growth Chamber
+1 Harrow
+1 Hostage Taker
+1 Mana Leak
+1 Uro, Titan of Nature's Wrath
+1 Knight of the Ebon Legion
+1 Vito, Thorn of the Dusk Rose
+1 Fabled Passage
+1 Watery Grave
+1 Zagoth Triome
+1 Plaguecrafter
+1 Thief of Sanity
+1 Arcane Denial
+1 Hullbreacher
+1 Scavenged Brawler
+1 Faerie Seer
+1 Jadar, Ghoulcaller of Nephalia
+1 Elven Chorus
+1 Souls of the Lost
+1 Control Magic
+5 Island
+4 Swamp
+4 Forest
+
+1 Virtue of Persistence // Locthwain Scorn
+1 Conduit of Worlds
+1 Brazen Borrower // Petty Theft
+1 Pongify
+1 Glen Elendra Archmage
+1 Hangarback Walker
+1 Aethersnipe
+1 Spyglass Siren
+1 Hellrider
+1 Emergence Zone
+1 Multiple Choice
+1 Archaeomancer
+1 Titania, Protector of Argoth
+1 Ohran Frostfang
+1 Arbor Elf
+1 Benthic Biomancer
+1 Monoskelion
+1 Kiora, Behemoth Beckoner

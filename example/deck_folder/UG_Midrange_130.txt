@@ -1,0 +1,53 @@
+Player: David
+Archetype: Midrange_Ramp
+Record: 2-1
+Games: 5-4
+
+1 Elvish Reclaimer
+1 Echo of Eons
+1 Hullbreacher
+1 Utopia Sprawl
+1 Wild Growth
+1 Scapeshift
+1 Flare of Cultivation
+1 Harrow
+1 Contest of Claws
+1 Springheart Nantuko
+1 Contaminated Landscape
+1 Nissa, Who Shakes the World
+1 Arboreal Grazer
+1 Narset, Parter of Veils
+1 Goldvein Hydra
+1 Wooded Foothills
+1 Primeval Titan
+1 Wood Elves
+1 Arbor Elf
+1 Uro, Titan of Nature's Wrath
+1 Nadu, Winged Wisdom
+1 Tireless Tracker
+1 Aftermath Analyst
+1 Dryad of the Ilysian Grove
+1 Questing Beast
+1 Hedge Maze
+1 Valakut, the Molten Pinnacle
+1 Tranquil Landscape
+1 Talon Gates of Madara
+1 Lotus Cobra
+3 Island
+7 Forest
+
+1 Currency Converter
+1 Life from the Loam
+1 Lonis, Genetics Expert
+1 Triplicate Titan
+1 Sylvan Library
+1 Ghostly Flicker
+1 Consider
+1 Hard Evidence
+1 Chart a Course
+1 Éomer, King of Rohan
+1 Sunpetal Grove
+1 Occult Epiphany
+1 Archfiend of Ifnir
+1 Stomping Ground
+1 Steam Vents

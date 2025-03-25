@@ -1,0 +1,54 @@
+Player: William
+Archetype: Aggro_Reanimator
+Record: 2-1
+Games: 5-3
+
+1 Twinshot Sniper
+1 Dragon's Rage Channeler
+1 Play with Fire
+1 Chain Lightning
+1 Hoarding Broodlord
+1 Vaultborn Tyrant
+1 Bone Shards
+1 Reanimate
+1 Seasoned Pyromancer
+1 Death-Greeter's Champion
+1 Stomping Ground
+1 Goblin Cratermaker
+1 Bloodtithe Harvester
+1 Oliphaunt
+1 Nullpriest of Oblivion
+1 Kolaghan's Command
+1 Ziatora's Proving Ground
+1 Archon of Cruelty
+1 Restless Cottage
+1 Triplicate Titan
+1 Brain Maggot
+1 Unholy Heat
+1 Phyrexian Fleshgorger
+1 Prismatic Vista
+1 Blood Crypt
+1 Sneak Attack
+1 Restless Vents
+1 Marsh Flats
+1 Fatal Push
+1 Inti, Seneschal of the Sun
+1 Earthshaker Khenra
+4 Swamp
+4 Mountain
+1 Forest
+
+1 Seething Landscape
+1 Stoke the Flames
+1 Brotherhood's End
+1 Glen Elendra Archmage
+1 Life from the Loam
+1 Containment Construct
+1 Occult Epiphany
+1 Caldaia Guardian
+1 Birthing Ritual
+1 Atsushi, the Blazing Sky
+1 Ornithopter of Paradise
+1 Triarch Praetorian
+1 Inquisition of Kozilek
+1 Thorn of the Black Rose

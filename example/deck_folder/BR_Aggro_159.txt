@@ -1,0 +1,53 @@
+Player: Bent
+Archetype: Aggro_Reanimator
+Record: 1-2
+Games: 3-5
+
+1 Altar of Dementia
+1 Animate Dead
+1 Virtue of Persistence // Locthwain Scorn
+1 Terror of the Peaks
+1 Bloodtithe Harvester
+1 Seasoned Pyromancer
+1 Feed the Swarm
+1 Exhume
+1 Kolaghan's Command
+1 Deathrite Shaman
+1 Argentum Masticore
+1 Go for the Throat
+1 Dread Return
+1 Sneak Attack
+1 Gix's Command
+1 Collective Brutality
+1 Faerie Dreamthief
+1 Trumpeting Carnosaur
+1 Rotting Rats
+1 Old One Eye
+1 Ziatora's Proving Ground
+1 Glorybringer
+1 Saw in Half
+1 Takenuma, Abandoned Mire
+1 Dauthi Voidwalker
+7 Swamp
+8 Mountain
+
+1 Angel of Serenity
+1 Through the Breach
+1 Ghostfire Slice
+1 Spitting Dilophosaurus
+1 Stalactite Stalker
+1 Light Up the Stage
+1 Untimely Malfunction
+1 Massacre Girl, Known Killer
+1 Bloodsoaked Champion
+1 Spelunking
+1 Make Disappear
+1 Escape Tunnel
+1 Aftermath Analyst
+1 Priest of Fell Rites
+1 Sheltering Landscape
+1 Sacred Foundry
+1 Godless Shrine
+1 Field of the Dead
+1 Robber of the Rich
+1 Carnage Interpreter

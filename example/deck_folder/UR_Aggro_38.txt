@@ -1,0 +1,53 @@
+Player: Marc-Antoine
+Archetype: Aggro_Spellslinger
+Record: 2-1
+Games: 4-3
+
+1 Sower of Temptation
+1 Mystic Confluence
+1 Dragon's Rage Channeler
+1 Legion Warboss
+1 Young Pyromancer
+1 Third Path Iconoclast
+1 Ashiok, Dream Render
+1 Vendilion Clique
+1 Earthshaker Khenra
+1 Shelldock Isle
+1 Baral's Expertise
+1 Abbot of Keral Keep
+1 Miscalculation
+1 Counterspell
+1 Flame of Anor
+1 Brainstorm
+1 Arid Mesa
+1 Burst Lightning
+1 Goblin Guide
+1 Lightning Strike
+1 Misty Rainforest
+1 Voracious Greatshark
+1 Consider
+1 Chain Lightning
+1 Lose Focus
+1 Archaeomancer
+1 Incinerate
+1 Soul-Scar Mage
+6 Island
+7 Mountain
+
+1 Gonti, Lord of Luxury
+1 Subterranean Schooner
+1 Hulking Raptor
+1 Terramorphic Expanse
+1 Hedron Crab
+1 Wildfire
+1 Approach of the Second Sun
+1 Body Launderer
+1 Witch's Oven
+1 Plaguecrafter
+1 Thoughtseize
+1 Inspiring Overseer
+1 Cauldron Familiar
+1 Undercity Sewers
+1 Verdant Catacombs
+1 Thief of Sanity
+1 Mishra's Factory

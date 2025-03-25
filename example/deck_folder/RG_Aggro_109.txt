@@ -1,0 +1,54 @@
+Player: Ruben
+Archetype: Aggro_Sneak
+Record: 1-2
+Games: 3-5
+
+1 Sneak Attack
+1 Thragtusk
+1 Generous Ent
+1 Trumpeting Carnosaur
+1 Titania's Command
+1 Primeval Titan
+1 Triplicate Titan
+1 Terror of the Peaks
+1 Smuggler's Surprise
+1 Flametongue Kavu
+1 Saw in Half
+1 Eternal Witness
+1 Spelunking
+1 Lotus Cobra
+1 Sylvan Library
+1 Birthing Ritual
+1 Fear of Missing Out
+1 Abrade
+1 Chainsaw
+1 Arbor Elf
+1 Wild Growth
+1 Llanowar Elves
+1 Arboreal Grazer
+1 Restless Cottage
+1 Raging Ravine
+1 Ketria Triome
+1 Twisted Landscape
+1 Copperline Gorge
+2 Swamp
+4 Mountain
+6 Forest
+
+1 Animate Dead
+1 Dread Return
+1 Persist
+1 Angel of Serenity
+1 Éomer, King of Rohan
+1 Venerated Loxodon
+1 Body Launderer
+1 Archaeomancer
+1 Wrenn and Six
+1 Cryptic Coat
+1 Scavenging Ooze
+1 Dryad of the Ilysian Grove
+1 Sharp-Eyed Rookie
+1 Mawloc
+1 Bloodbraid Elf
+1 Pest Infestation
+1 Halana and Alena, Partners

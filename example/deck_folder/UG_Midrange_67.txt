@@ -1,0 +1,53 @@
+Player: Morten
+Archetype: Midrange_Mill
+Record: 1-2
+Games: 3-4
+
+1 Terramorphic Expanse
+1 Brazen Borrower // Petty Theft
+1 Tireless Provisioner
+1 Astral Dragon
+1 Thundering Falls
+1 Meticulous Archive
+1 Fiery Islet
+1 Cryptic Coat
+1 Hedron Crab
+1 Mana Leak
+1 Old One Eye
+1 Izzet Boilerworks
+1 Pest Infestation
+1 Riftwing Cloudskate
+1 Chart a Course
+1 Watcher for Tomorrow
+1 Shelldock Isle
+1 Court of Garenbrig
+1 Lotus Cobra
+1 Lush Portico
+1 Altar of Dementia
+1 Fabled Passage
+1 Spara's Headquarters
+1 Verdurous Gearhulk
+1 Daze
+1 The One Ring
+1 Snapcaster Mage
+1 Miscalculation
+1 Aether Channeler
+1 Faerie Mastermind
+1 Shark Typhoon
+1 Ketria Triome
+1 Misty Rainforest
+1 Lose Focus
+2 Island
+4 Forest
+
+1 Celestial Colonnade
+1 Displace
+1 Curator of Mysteries
+1 Overwhelming Stampede
+1 Lonis, Genetics Expert
+1 Kitchen Finks
+1 Gandalf, White Rider
+1 World Shaper
+1 Sunpetal Grove
+1 Torrential Gearhulk
+1 Prairie Stream
