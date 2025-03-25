@@ -57,8 +57,7 @@ Games: GameWins-GameLosses
 1 Lightning Bolt\
 .\
 .\
-.
-&nbsp;  
+.  
 
 1 One with Nothing\
 .\
