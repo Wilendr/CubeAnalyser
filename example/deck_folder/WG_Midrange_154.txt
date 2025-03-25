@@ -1,0 +1,53 @@
+Player: Ole
+Archetype: Midrange_Tokens
+Record: 0-2
+Games: 2-5
+
+1 Gala Greeters
+1 Caldaia Guardian
+1 Windswept Heath
+1 Old One Eye
+1 Stonecoil Serpent
+1 Innkeeper's Talent
+1 Toby, Beastie Befriender
+1 Scavenging Ooze
+1 Warden of the Inner Sky
+1 Samwise Gamgee
+1 Caretaker's Talent
+1 Hangarback Walker
+1 Mikaeus, the Lunarch
+1 Oblivion Ring
+1 Sunpetal Grove
+1 Rishkar, Peema Renegade
+1 Condemn
+1 Sandstorm Salvager
+1 Incubation Druid
+1 Winds of Abandon
+1 Loran of the Third Path
+1 Heliod, Sun-Crowned
+1 Securitron Squadron
+1 Biophagus
+1 Jacked Rabbit
+1 Gilded Goose
+7 Plains
+7 Forest
+
+1 Nissa, Ascended Animist
+1 Staff of the Storyteller
+1 March of Otherworldly Light
+1 Skullclamp
+1 Wrath of God
+1 Deceptive Landscape
+1 Kayla's Command
+1 Beast Within
+1 Balustrade Wurm
+1 Tireless Provisioner
+1 Scholar of New Horizons
+1 Cankerbloom
+1 Aftermath Analyst
+1 Sakura-Tribe Elder
+1 Thraben Inspector
+1 Arbor Elf
+1 Witch's Oven
+1 Hedge Shredder
+1 Helping Hand

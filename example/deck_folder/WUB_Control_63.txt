@@ -1,0 +1,54 @@
+Player: Marc-Antoine
+Archetype: Control
+Record: 0-3
+Games: 1-6
+
+1 Tishana's Tidebinder
+1 Shambling Vent
+1 All-Seeing Arbiter
+1 Baleful Mastery
+1 Serum Visions
+1 Negate
+1 Baral's Expertise
+1 Sower of Temptation
+1 Counterspell
+1 Ponder
+1 Persist
+1 Solemn Simulacrum
+1 Eradicator Valkyrie
+1 Xander's Lounge
+1 Hullbreaker Horror
+1 Thoughtseize
+1 Farewell
+1 Dauthi Voidwalker
+1 Rankle, Master of Pranks
+1 Fact or Fiction
+1 Get Lost
+1 Godless Shrine
+1 Ashiok, Dream Render
+1 Brain Maggot
+1 Callous Bloodmage
+1 Arcane Denial
+1 Aethersnipe
+1 Elite Spellbinder
+1 Undercity Sewers
+2 Plains
+5 Island
+5 Swamp
+
+1 Archaeomancer
+1 Ashen Rider
+1 Supreme Verdict
+1 Nadir Kraken
+1 Blade Splicer
+1 Niblis of Frost
+1 Sphinx's Tutelage
+1 Custodi Lich
+1 Oracle of Tragedy
+1 Felidar Guardian
+1 Combat Thresher
+1 Young Pyromancer
+1 Raffine's Informant
+1 Astral Drift
+1 Priest of Fell Rites
+1 Entomb

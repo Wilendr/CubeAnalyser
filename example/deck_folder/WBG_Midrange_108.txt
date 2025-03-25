@@ -1,0 +1,54 @@
+Player: Vegard
+Archetype: Midrange_Tokens
+Record: 2-1
+Games: 4-2
+
+1 Contaminated Landscape
+1 Sunpetal Grove
+1 Esika's Chariot
+1 Godless Shrine
+1 Thoughtseize
+1 Guardian Scalelord
+1 Clarion Spirit
+1 Figure of Destiny
+1 Swords to Plowshares
+1 Eagles of the North
+1 Unexpectedly Absent
+1 Gandalf, White Rider
+1 Overgrown Tomb
+1 Usher of the Fallen
+1 Toxic Deluge
+1 Marsh Flats
+1 Underground Mortuary
+1 Abstruse Appropriation
+1 Path to Exile
+1 Brain Maggot
+1 Adeline, Resplendent Cathar
+1 Pick Your Poison
+1 Jacked Rabbit
+1 Glimmer Lens
+1 Treebeard, Gracious Host
+1 Assault Intercessor
+1 Giver of Runes
+1 Conclave Tribunal
+1 Deep-Cavern Bat
+1 Mikaeus, the Lunarch
+6 Plains
+3 Swamp
+1 Forest
+
+1 Unearth
+1 Infernal Grasp
+1 Aerial Extortionist
+1 Witch's Oven
+1 Kitchen Finks
+1 Elvish Mystic
+1 Warleader's Call
+1 Death-Greeter's Champion
+1 Unholy Heat
+1 Harrow
+1 Coveted Jewel
+1 Lórien Revealed
+1 Felidar Guardian
+1 The Gitrog Monster
+1 Walking Ballista

@@ -1,0 +1,53 @@
+Player: Martin
+Archetype: Control_Blink
+Record: 2-1
+Games: 4-3
+
+1 Sunfall
+1 Malcolm, Alluring Scoundrel
+1 Guardian Scalelord
+1 Bronzebeak Foragers
+1 Loran of the Third Path
+1 Adeline, Resplendent Cathar
+1 Archaeomancer
+1 Recruitment Officer
+1 Ornithopter of Paradise
+1 Elspeth, Sun's Champion
+1 Giver of Runes
+1 Pteramander
+1 Parallax Wave
+1 Aether Channeler
+1 Perilous Landscape
+1 Azure Beastbinder
+1 Condemn
+1 Aerial Extortionist
+1 Celestial Colonnade
+1 Soulherder
+1 Hallowed Fountain
+1 Karmic Guide
+1 Supreme Verdict
+1 Raugrin Triome
+1 Lórien Revealed
+1 Reflector Mage
+1 Swords to Plowshares
+1 Authority of the Consuls
+7 Plains
+5 Island
+
+1 Angel of Indemnity
+1 Shark Typhoon
+1 Pre-War Formalwear
+1 Fiery Islet
+1 Thundering Falls
+1 Sacred Foundry
+1 Fear, Fire, Foes!
+1 Expressive Iteration
+1 Burn Down the House
+1 Fiery Confluence
+1 Goblin Rabblemaster
+1 Conclave Tribunal
+1 Samwise Gamgee
+1 Hopeful Initiate
+1 Scapeshift
+1 Harrow
+1 Life from the Loam

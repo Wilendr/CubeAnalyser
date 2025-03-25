@@ -1,0 +1,53 @@
+Player: Sindre
+Archetype: Midrange_Counters
+Record: 1-2
+Games: 3-4
+
+1 Restless Cottage
+1 Jetmir's Garden
+1 Werefox Bodyguard
+1 Virtue of Loyalty // Ardenvale Fealty
+1 Fractured Identity
+1 Scurry Oak
+1 Parallax Wave
+1 Conclave Tribunal
+1 Rishkar, Peema Renegade
+1 Mikaeus, the Lunarch
+1 Nautiloid Ship
+1 Kutzil, Malamet Exemplar
+1 Boseiju, Who Endures
+1 Tangled Islet
+1 Walking Ballista
+1 Restless Prairie
+1 Venerated Loxodon
+1 Mosswood Dreadknight // Dread Whispers
+1 Warden of the Inner Sky
+1 Llanowar Elves
+1 Overgrown Tomb
+1 Arbor Elf
+1 Get Lost
+1 Windswept Heath
+1 Skysovereign, Consul Flagship
+1 Heliod, Sun-Crowned
+1 Stonecoil Serpent
+1 Winds of Abandon
+1 Nissa, Resurgent Animist
+1 Noble Hierarch
+1 Bronzebeak Foragers
+5 Plains
+4 Forest
+
+1 Emiel the Blessed
+1 Ancient Imperiosaur
+1 Old One Eye
+1 Farhaven Elf
+1 Haunted Mire
+1 Uro, Titan of Nature's Wrath
+1 Nature's Lore
+1 Entish Restoration
+1 Blossoming Tortoise
+1 Titania's Command
+1 Tireless Provisioner
+1 Ivy Lane Denizen
+1 Phyrexian Fleshgorger
+1 Inscription of Abundance

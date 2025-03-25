@@ -1,0 +1,53 @@
+Player: Lun
+Archetype: Midrange_Counters
+Record: 1-2
+Games: 2.5-4.5
+
+1 Elvish Mystic
+1 Noble Hierarch
+1 Stomping Ground
+1 Bramble Familiar // Fetch Quest
+1 Titan of Industry
+1 End-Raze Forerunners
+1 Devoted Druid
+1 Benevolent Hydra
+1 Intrepid Adversary
+1 Farewell
+1 Spara's Headquarters
+1 Boseiju, Who Endures
+1 Llanowar Loamspeaker
+1 Kutzil, Malamet Exemplar
+1 Thragtusk
+1 Kami of Whispered Hopes
+1 Cathar Commando
+1 Declaration in Stone
+1 Virtue of Loyalty // Ardenvale Fealty
+1 Heliod, Sun-Crowned
+1 Ancient Imperiosaur
+1 Nissa, Who Shakes the World
+1 Guardian Project
+1 Galadriel, Gift-Giver
+1 Questing Druid // Seek the Beast
+1 Utopia Sprawl
+5 Plains
+9 Forest
+
+1 Wild Growth
+1 The First Iroan Games
+1 Esika's Chariot
+1 Archangel Elspeth
+1 Conclave Tribunal
+1 Felidar Guardian
+1 Figure of Destiny
+1 Charming Prince
+1 Guardian of New Benalia
+1 Clarion Spirit
+1 Metallic Mimic
+1 Brotherhood's End
+1 Flame of Anor
+1 Hoarding Broodlord
+1 Simic Growth Chamber
+1 Goblin Assault
+1 Lightning Helix
+1 Deadly Dispute
+1 Tenacious Underdog

@@ -1,0 +1,53 @@
+Player: Oskar
+Archetype: Aggro_Sneak
+Record: 2-1
+Games: 5-4
+
+1 Eagles of the North
+1 Fabled Passage
+1 Elite Spellbinder
+1 Giver of Runes
+1 Authority of the Consuls
+1 Inti, Seneschal of the Sun
+1 Sneak Attack
+1 Shivan Devastator
+1 Scavenged Brawler
+1 Toby, Beastie Befriender
+1 Skullclamp
+1 Zealous Conscripts
+1 Fear of Missing Out
+1 Werefox Bodyguard
+1 Pre-War Formalwear
+1 Restless Bivouac
+1 Screaming Nemesis
+1 Angel of Indemnity
+1 Glorybringer
+1 Mimic Vat
+1 Serra Paragon
+1 Faithless Looting
+1 Anim Pakal, Thousandth Moon
+1 Earthshaker Khenra
+1 Goblin Guide
+1 Goblin Rabblemaster
+7 Plains
+7 Mountain
+
+1 Threefold Thunderhulk
+1 Rabbit Battery
+1 Argentum Masticore
+1 Scalding Tarn
+1 Kolaghan's Command
+1 Sheoldred's Edict
+1 Generous Ent
+1 Blood Crypt
+1 Thorn of the Black Rose
+1 Takenuma, Abandoned Mire
+1 Venerated Loxodon
+1 Restless Vents
+1 Conduit of Worlds
+1 Grist, the Hunger Tide
+1 Teferi, Hero of Dominaria
+1 Wood Elves
+1 Woodland Cemetery
+1 Occult Epiphany
+1 Angel of Serenity

@@ -1,0 +1,54 @@
+Player: Ruben
+Archetype: Control
+Record: 1-2
+Games: 3-4
+
+1 Smirking Spelljacker
+1 Spara's Headquarters
+1 Brazen Borrower // Petty Theft
+1 Hallowed Fountain
+1 Stoic Sphinx
+1 Werefox Bodyguard
+1 Three Steps Ahead
+1 Ghostly Flicker
+1 Reflector Mage
+1 Nadu, Winged Wisdom
+1 Kitesail Larcenist
+1 Shoreline Looter
+1 Glen Elendra Archmage
+1 Hedge Maze
+1 Prairie Stream
+1 Meticulous Archive
+1 Torrential Gearhulk
+1 Elite Spellbinder
+1 Silent Hallcreeper
+1 Noble Hierarch
+1 Get Lost
+1 Uro, Titan of Nature's Wrath
+1 Confounding Riddle
+1 Touch the Spirit Realm
+1 Time Wipe
+1 Ponder
+1 Remand
+1 Sylvan Safekeeper
+1 Arid Mesa
+1 Eiganjo, Seat of the Empire
+1 Temple Garden
+1 Misty Rainforest
+3 Plains
+4 Island
+1 Forest
+
+1 Esper Sentinel
+1 Raffine's Tower
+1 Court of Garenbrig
+1 Pick Your Poison
+1 Maha, Its Feathers Night
+1 Questing Beast
+1 Hulking Raptor
+1 Goldvein Hydra
+1 Siren Stormtamer
+1 The Goose Mother
+1 Three Visits
+1 Cryptic Coat
+1 Unexpectedly Absent

@@ -1,0 +1,55 @@
+Player: Gaute
+Archetype: Midrange
+Record: 1-2
+Games: 4-5
+
+1 Hopeful Initiate
+1 Arid Mesa
+1 Contest of Claws
+1 Shivan Devastator
+1 Thragtusk
+1 Scavenging Ooze
+1 Resplendent Angel
+1 Monoskelion
+1 Indatha Triome
+1 Twinshot Sniper
+1 Lonis, Genetics Expert
+1 Lightning Bolt
+1 Bushwhack
+1 Basri's Lieutenant
+1 Eiganjo, Seat of the Empire
+1 Llanowar Elves
+1 Three Visits
+1 Mikaeus, the Lunarch
+1 Abrade
+1 Urabrask's Forge
+1 Copperline Gorge
+1 Collector's Cage
+1 Farseek
+1 Warden of the Inner Sky
+1 Commercial District
+1 Greater Tanuki
+1 Questing Beast
+1 Once Upon a Time
+1 Guardian Scalelord
+3 Plains
+3 Mountain
+5 Forest
+
+1 Elite Spellbinder
+1 Mountain
+1 Loran of the Third Path
+1 Titania's Command
+1 Magmatic Galleon
+1 Crystalline Crawler
+1 Triplicate Titan
+1 Renata, Called to the Hunt
+1 Hangarback Walker
+1 Blossoming Tortoise
+1 Up the Beanstalk
+1 Soul-Scar Mage
+1 Venerated Loxodon
+1 Coveted Jewel
+1 Goblin Rabblemaster
+1 Bloodsoaked Champion
+1 Miscalculation

@@ -1,0 +1,54 @@
+Player: Vegard
+Archetype: Aggro_Ramp
+Record: 1-1
+Games: 3-4
+
+1 Generous Ent
+1 Stomping Ground
+1 Ash Barrens
+1 Death-Greeter's Champion
+1 Wrenn's Resolve
+1 Bonehoard Dracosaur
+1 Abrade
+1 Giver of Runes
+1 Edge of Autumn
+1 Lush Portico
+1 Elvish Mystic
+1 Boseiju, Who Endures
+1 Biophagus
+1 Horizon of Progress
+1 Beast Within
+1 Bristly Bill, Spine Sower
+1 Fear of Missing Out
+1 Parallax Wave
+1 Agonasaur Rex
+1 Chain Lightning
+1 Esika's Chariot
+1 Fabled Passage
+1 Nissa, Who Shakes the World
+1 Inti, Seneschal of the Sun
+1 Bristlebud Farmer
+1 Halana and Alena, Partners
+1 Tireless Tracker
+1 Screaming Nemesis
+1 Lightning Bolt
+1 Jacked Rabbit
+2 Plains
+4 Mountain
+4 Forest
+
+1 Sandstorm Salvager
+1 Elite Spellbinder
+1 Kitchen Finks
+1 Figure of Destiny
+1 Scapeshift
+1 Sylvan Safekeeper
+1 Flare of Duplication
+1 Living Death
+1 Fall from Favor
+1 Glare of Subdual
+1 Deep-Cavern Bat
+1 Triplicate Titan
+1 The Gitrog Monster
+1 Urborg Scavengers
+1 Wrath of God

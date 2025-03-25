@@ -1,0 +1,53 @@
+Player: William
+Archetype: Midrange
+Record: 0-2
+Games: 1-4
+
+1 Intrepid Adversary
+1 Aerial Extortionist
+1 Sunfall
+1 Touch the Spirit Realm
+1 Thraben Inspector
+1 Bitterblossom
+1 Mikaeus, the Lunarch
+1 Selfless Spirit
+1 Winds of Abandon
+1 Warden of the Inner Sky
+1 Unexpectedly Absent
+1 Agatha's Soul Cauldron
+1 Fatal Push
+1 Esper Sentinel
+1 Clarion Spirit
+1 Stalactite Stalker
+1 Usher of the Fallen
+1 Windswept Heath
+1 Reprieve
+1 Godless Shrine
+1 Shadowy Backstreet
+1 Dark Confidant
+1 Lion Sash
+1 Skullclamp
+1 Thorn of the Black Rose
+1 Securitron Squadron
+1 Path to Exile
+8 Plains
+5 Swamp
+
+1 Raging Ravine
+1 Young Pyromancer
+1 Lonis, Genetics Expert
+1 Mimic Vat
+1 Contaminated Landscape
+1 Shattered Landscape
+1 Shriekmaw
+1 Restoration Angel
+1 Conclave Tribunal
+1 Collector's Vault
+1 Dread Return
+1 Harvester of Misery
+1 Celestial Colonnade
+1 Sarkhan, the Dragonspeaker
+1 Chrome Host Seedshark
+1 Negate
+1 Hallowed Fountain
+1 Baral, Chief of Compliance

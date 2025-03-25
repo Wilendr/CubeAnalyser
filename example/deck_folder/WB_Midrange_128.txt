@@ -1,0 +1,48 @@
+Player: Anders
+Archetype: Midrange_Reanimator
+Record: 0-3
+Games: 1-6
+
+1 Palantír of Orthanc
+1 Virtue of Loyalty // Ardenvale Fealty
+1 Abstruse Appropriation
+1 Get Lost
+1 Fatal Push
+1 Yahenni's Expertise
+1 Dread Return
+1 Reanimate
+1 Windfall
+1 Collective Brutality
+1 Persist
+1 Winds of Abandon
+1 Valgavoth, Terror Eater
+1 Phyrexian Fleshgorger
+1 Selfless Spirit
+1 Osteomancer Adept
+1 Keen Duelist
+1 Nullpriest of Oblivion
+1 Accursed Marauder
+1 Ashen Rider
+1 Werefox Bodyguard
+1 Triplicate Titan
+1 Dauthi Voidwalker
+4 Plains
+1 Island
+6 Swamp
+
+1 Overwhelming Stampede
+1 Flare of Cultivation
+1 Birthing Ritual
+1 Fiery Islet
+1 Plaguecrafter
+1 Scavenged Brawler
+1 Ornithopter of Paradise
+1 Scholar of New Horizons
+1 Hero of Bladehold
+1 Aerial Extortionist
+1 Goblin Rabblemaster
+1 Brazen Borrower // Petty Theft
+1 Academy Manufactor
+1 Lotus Cobra
+1 Aether Channeler
+1 Thragtusk

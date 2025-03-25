@@ -1,0 +1,54 @@
+Player: Oskar
+Archetype: Control
+Record: 1-2
+Games: 2-4
+
+1 Takenuma, Abandoned Mire
+1 Yahenni's Expertise
+1 Sunfall
+1 Archaeomancer
+1 Swords to Plowshares
+1 Confounding Riddle
+1 Snapcaster Mage
+1 Dress Down
+1 Get Lost
+1 Bronzebeak Foragers
+1 Commit // Memory
+1 Floodpits Drowner
+1 Fabled Passage
+1 Phantasmal Image
+1 Celestial Colonnade
+1 Brazen Borrower // Petty Theft
+1 Spara's Headquarters
+1 Sicarian Infiltrator
+1 Glen Elendra Archmage
+1 Control Magic
+1 Toxic Deluge
+1 Windfall
+1 Cryptic Coat
+1 Restless Reef
+1 The Wandering Emperor
+1 Collector's Vault
+1 Path to Exile
+1 Virtue of Persistence // Locthwain Scorn
+4 Plains
+5 Island
+3 Swamp
+
+1 Priest of Fell Rites
+1 Unexpectedly Absent
+1 Heliod, Sun-Crowned
+1 Spectral Sailor
+1 Riftwing Cloudskate
+1 Smirking Spelljacker
+1 Loran of the Third Path
+1 Make Disappear
+1 Collective Brutality
+1 Siren Stormtamer
+1 Torrential Gearhulk
+1 Bloodline Culling
+1 Deep Analysis
+1 Spyglass Siren
+1 Relic of Sauron
+1 Treebeard, Gracious Host
+1 Tishana's Tidebinder

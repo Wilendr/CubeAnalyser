@@ -1,0 +1,54 @@
+Player: Oskar
+Archetype: Control
+Record: 3-1
+Games: 6-1
+
+1 Mulldrifter
+1 Orcish Bowmasters
+1 Heliod, Sun-Crowned
+1 Teferi, Hero of Dominaria
+1 Shriekmaw
+1 Supreme Verdict
+1 Deep Analysis
+1 The Wandering Emperor
+1 Aether Channeler
+1 Elspeth, Sun's Champion
+1 Guardian of New Benalia
+1 Fateful Absence
+1 Jace, the Mind Sculptor
+1 Circuit Mender
+1 Keen Duelist
+1 Fetid Pools
+1 Reflector Mage
+1 Serra Paragon
+1 Vindicate
+1 Authority of the Consuls
+1 Werefox Bodyguard
+1 Prairie Stream
+1 Palantír of Orthanc
+1 Parallax Wave
+1 Felidar Guardian
+7 Plains
+4 Island
+4 Swamp
+
+1 Anointed Peacekeeper
+1 Voracious Greatshark
+1 Gonti, Lord of Luxury
+1 Serum Visions
+1 Restless Bivouac
+1 Young Pyromancer
+1 Containment Construct
+1 Crucible of Worlds
+1 Witch's Oven
+1 Stitcher's Supplier
+1 Figure of Destiny
+1 Hedron Crab
+1 Oracle of Tragedy
+1 Aerial Extortionist
+1 Moonshaker Cavalry
+1 Karmic Guide
+1 Sun Titan
+1 Breach the Multiverse
+1 Vendilion Clique
+1 Necron Deathmark

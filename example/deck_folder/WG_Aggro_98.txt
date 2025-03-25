@@ -1,0 +1,53 @@
+Player: Morten
+Archetype: Aggro_Counters
+Record: 3-0
+Games: 6-3
+
+1 Incubation Druid
+1 Sunpetal Grove
+1 Adeline, Resplendent Cathar
+1 Kitchen Finks
+1 Elder Gargaroth
+1 Collector's Cage
+1 Vaultborn Tyrant
+1 Sheltering Landscape
+1 Temple Garden
+1 Court of Garenbrig
+1 Questing Beast
+1 Guardian Scalelord
+1 Werefox Bodyguard
+1 Samwise Gamgee
+1 Cathar Commando
+1 Palace Jailer
+1 Luminarch Aspirant
+1 Aragorn and Arwen, Wed
+1 Overgrown Tomb
+1 Smuggler's Surprise
+1 Marsh Flats
+1 Get Lost
+1 Treebeard, Gracious Host
+1 Mother of Runes
+1 Ephemerate
+1 Angel of Serenity
+1 Deceptive Landscape
+1 Sakura-Tribe Elder
+1 Prismatic Vista
+1 Farseek
+1 Scholar of New Horizons
+5 Plains
+4 Forest
+
+1 Primeval Titan
+1 Harrow
+1 Abstruse Appropriation
+1 Raugrin Triome
+1 Grim Lavamancer
+1 Through the Breach
+1 Counterspell
+1 Arcane Denial
+1 Pia and Kiran Nalaar
+1 Kayla's Command
+1 Wrenn and Six
+1 Burn Down the House
+1 Scavenging Ooze
+1 Overwhelming Stampede

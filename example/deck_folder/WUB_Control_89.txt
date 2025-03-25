@@ -1,0 +1,54 @@
+Player: David
+Archetype: Control_Blink
+Record: 2-0
+Games: 4-0
+
+1 Reflector Mage
+1 Dread Return
+1 Priest of Fell Rites
+1 Felidar Guardian
+1 Undercity Sewers
+1 Angel of Indemnity
+1 Assault Intercessor
+1 Parallax Wave
+1 The One Ring
+1 Spirited Companion
+1 Jace, the Mind Sculptor
+1 Soulherder
+1 Luminarch Aspirant
+1 Animate Dead
+1 Thraben Inspector
+1 Aerial Extortionist
+1 Contaminated Landscape
+1 Hallowed Fountain
+1 Fall from Favor
+1 Selfless Spirit
+1 Raffine's Tower
+1 Fateful Absence
+1 Palace Jailer
+1 Glen Elendra Archmage
+1 Ledger Shredder
+1 Path to Exile
+1 Meticulous Archive
+1 Shadowy Backstreet
+1 Eagles of the North
+1 Ghostly Flicker
+1 Ephemerate
+3 Plains
+3 Island
+3 Swamp
+
+1 Watcher for Tomorrow
+1 Circuit Mender
+1 Faerie Seer
+1 Chart a Course
+1 Ashen Rider
+1 Angel of Serenity
+1 Counterspell
+1 Myr Battlesphere
+1 Anim Pakal, Thousandth Moon
+1 Metallic Mimic
+1 Galadriel, Gift-Giver
+1 Lion Sash
+1 Caldaia Guardian
+1 Authority of the Consuls

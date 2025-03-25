@@ -1,0 +1,53 @@
+Player: Amund
+Archetype: Midrange_Blink
+Record: 3-0
+Games: 6-1.5
+
+1 Brazen Borrower // Petty Theft
+1 Celestial Colonnade
+1 Lion Sash
+1 Delney, Streetwise Lookout
+1 Sunfall
+1 Supreme Verdict
+1 Spirited Companion
+1 Expel the Interlopers
+1 Skyclave Apparition
+1 Mutavault
+1 Soulherder
+1 Cloudblazer
+1 Palace Jailer
+1 Mulldrifter
+1 Warden of the Inner Sky
+1 Phantasmal Image
+1 Werefox Bodyguard
+1 Get Lost
+1 Reflector Mage
+1 Ephemerate
+1 Teferi, Time Raveler
+1 Inspiring Overseer
+1 Aerial Extortionist
+1 Blade Splicer
+1 Displace
+8 Plains
+7 Island
+
+1 Hero of Bladehold
+1 Settle the Wreckage
+1 The Eternal Wanderer
+1 Venerated Loxodon
+1 Staff of the Storyteller
+1 Cryptic Coat
+1 Loran of the Third Path
+1 Brainstorm
+1 Control Magic
+1 Recommission
+1 Marsh Flats
+1 Jetmir's Garden
+1 Shambling Vent
+1 Emergence Zone
+1 Monastery Mentor
+1 Nadir Kraken
+1 Approach of the Second Sun
+1 Anim Pakal, Thousandth Moon
+1 Souls of the Lost
+1 Jadar, Ghoulcaller of Nephalia

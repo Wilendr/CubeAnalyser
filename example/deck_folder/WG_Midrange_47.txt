@@ -1,0 +1,54 @@
+Player: William
+Archetype: Midrange_Counters
+Record: 2-1
+Games: 5-3
+
+1 Misty Rainforest
+1 Court of Garenbrig
+1 Path to Exile
+1 Ancient Imperiosaur
+1 Condemn
+1 Jace, the Mind Sculptor
+1 Generous Ent
+1 Walking Ballista
+1 Parallax Wave
+1 Gala Greeters
+1 Treebeard, Gracious Host
+1 Fall from Favor
+1 Sakura-Tribe Elder
+1 Llanowar Elves
+1 Farmer Cotton
+1 Bramble Familiar // Fetch Quest
+1 Lotus Cobra
+1 Spara's Headquarters
+1 The Goose Mother
+1 Pest Infestation
+1 Meticulous Archive
+1 Wood Elves
+1 Arid Mesa
+1 Tireless Tracker
+1 Greater Tanuki
+1 Restless Vinestalk
+1 Lush Portico
+1 Breeding Pool
+1 Nissa, Resurgent Animist
+1 Intrepid Adversary
+1 Rishkar, Peema Renegade
+1 Basri's Lieutenant
+3 Plains
+2 Island
+3 Forest
+
+1 Sentinel of the Nameless City
+1 Moonshaker Cavalry
+1 Hulking Raptor
+1 Topiary Stomper
+1 Arboreal Grazer
+1 Cankerbloom
+1 Augur of Autumn
+1 World Shaper
+1 Scavenged Brawler
+1 End-Raze Forerunners
+1 Kodama's Reach
+1 Mosswood Dreadknight // Dread Whispers
+1 Entish Restoration

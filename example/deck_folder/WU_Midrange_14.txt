@@ -1,0 +1,55 @@
+Player: Sander
+Archetype: Midrange_Blink
+Record: 2-1
+Games: 4-4
+
+1 Settle the Wreckage
+1 Radiant Grove
+1 Basri's Lieutenant
+1 Esper Sentinel
+1 Riftwing Cloudskate
+1 Prairie Stream
+1 Reflector Mage
+1 Charming Prince
+1 Condemn
+1 Archangel Elspeth
+1 Guardian of New Benalia
+1 Flooded Strand
+1 Anointed Peacekeeper
+1 Blade Splicer
+1 Touch the Spirit Realm
+1 Twining Twins // Swift Spiral
+1 Watcher for Tomorrow
+1 Escape Tunnel
+1 Fiend Hunter
+1 Arid Mesa
+1 Siren Stormtamer
+1 Preordain
+1 Combat Thresher
+1 Displace
+1 Raugrin Triome
+1 Idyllic Beachfront
+1 Shelldock Isle
+1 Cloudblazer
+1 The Eternal Wanderer
+1 Thragtusk
+1 Brazen Borrower // Petty Theft
+5 Plains
+3 Island
+1 Forest
+
+1 Mountain
+1 Prismari Command
+1 Supreme Verdict
+1 Vendilion Clique
+1 Multiple Choice
+1 Sevinne's Reclamation
+1 Resplendent Angel
+1 Remand
+1 Voracious Greatshark
+1 Lose Focus
+1 Usher of the Fallen
+1 Champion of Wits
+1 The Goose Mother
+1 Poison-Tip Archer
+1 Territorial Kavu

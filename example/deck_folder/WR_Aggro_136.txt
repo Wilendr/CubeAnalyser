@@ -1,0 +1,53 @@
+Player: William
+Archetype: Aggro
+Record: 2-1
+Games: 5-2
+
+1 Hero of Bladehold
+1 Thraben Inspector
+1 Aerial Extortionist
+1 Lion Sash
+1 Monastery Swiftspear
+1 Soul Partition
+1 Flametongue Kavu
+1 Usher of the Fallen
+1 Blade Splicer
+1 Securitron Squadron
+1 Syr Ginger, the Meal Ender
+1 Firebolt
+1 Shivan Devastator
+1 Hazoret the Fervent
+1 Walking Ballista
+1 Generous Plunderer
+1 Anim Pakal, Thousandth Moon
+1 Clarion Spirit
+1 Terror of the Peaks
+1 Abrade
+1 Incinerate
+1 Burst Lightning
+1 Tarfire
+1 Captain Lannery Storm
+8 Plains
+8 Mountain
+
+1 Zealous Conscripts
+1 Authority of the Consuls
+1 Windswept Heath
+1 Declaration in Stone
+1 Untimely Malfunction
+1 Ephemerate
+1 Bloodbraid Elf
+1 Sarkhan, the Dragonspeaker
+1 Bushwhack
+1 Fanatic of Rhonas
+1 The Goose Mother
+1 Lazotep Quarry
+1 Negate
+1 Sakura-Tribe Elder
+1 Copperline Gorge
+1 Boseiju, Who Endures
+1 Sneak Attack
+1 Generous Ent
+1 Farseek
+1 Sentinel of the Nameless City
+1 Skyclave Apparition

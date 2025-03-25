@@ -1,0 +1,54 @@
+Player: Elias
+Archetype: Midrange_Reanimator
+Record: 2-1
+Games: 4.5-2.5
+
+1 Malcolm, Alluring Scoundrel
+1 Oblivion Ring
+1 Champion of Wits
+1 Raffine's Informant
+1 Sunlit Marsh
+1 Ravenous Chupacabra
+1 Watcher for Tomorrow
+1 Hallowed Fountain
+1 Brain Maggot
+1 Entomb
+1 Priest of Fell Rites
+1 Bitter Triumph
+1 Bone Shards
+1 Restoration Angel
+1 Vindicate
+1 Kaya's Guile
+1 Flooded Strand
+1 Contaminated Aquifer
+1 Misty Rainforest
+1 Karmic Guide
+1 Persist
+1 Preacher of the Schism
+1 Dread Return
+1 Raffine's Tower
+1 Exhume
+1 Troll of Khazad-dûm
+1 Combat Thresher
+1 Ashen Rider
+1 Triplicate Titan
+1 Harmonious Archon
+4 Plains
+1 Island
+6 Swamp
+
+1 Icy Manipulator
+1 Black Sun's Twilight
+1 Recruitment Officer
+1 Sulfuric Vortex
+1 Riftwing Cloudskate
+1 Sicarian Infiltrator
+1 Mimic Vat
+1 Goblin Cratermaker
+1 Sevinne's Reclamation
+1 Omenspeaker
+1 Plaguecrafter
+1 Liliana, Waker of the Dead
+1 Multiple Choice
+1 Custodi Lich
+1 Ketria Triome

@@ -1,0 +1,54 @@
+Player: Morten
+Archetype: Control_Blink
+Record: 1-2
+Games: 4-4
+
+1 Undercity Sewers
+1 Displacer Kitten
+1 Soulherder
+1 Silent Hallcreeper
+1 Mana Leak
+1 Inspiring Overseer
+1 Hallowed Fountain
+1 Miscalculation
+1 Time Wipe
+1 Circuit Mender
+1 Steamcore Scholar
+1 Remand
+1 Fall from Favor
+1 Guardian Scalelord
+1 Prairie Stream
+1 Raugrin Triome
+1 Raffine's Tower
+1 Ashen Rider
+1 Mulldrifter
+1 Ertai Resurrected
+1 Marsh Flats
+1 Ponder
+1 Reanimate
+1 Flooded Strand
+1 Mystic Confluence
+1 Polluted Delta
+1 Brainstorm
+1 Wrath of God
+1 Venser, Shaper Savant
+1 Vendilion Clique
+1 Scholar of New Horizons
+1 Coveted Jewel
+4 Plains
+4 Island
+1 Swamp
+
+1 Izzet Boilerworks
+1 Sheltering Landscape
+1 Cathar Commando
+1 March of Otherworldly Light
+1 Conclave Tribunal
+1 Eradicator Valkyrie
+1 Faerie Mastermind
+1 Deceptive Landscape
+1 Dig Through Time
+1 Serum Visions
+1 Enduring Curiosity
+1 Counterspell
+1 Spell Pierce

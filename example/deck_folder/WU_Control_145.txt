@@ -1,0 +1,53 @@
+Player: William
+Archetype: Control
+Record: 1-2
+Games: 2-4
+
+1 Hallowed Fountain
+1 Shoreline Looter
+1 Smirking Spelljacker
+1 Mystic Confluence
+1 Mockingbird
+1 Consider
+1 Winds of Abandon
+1 Preordain
+1 Arcane Denial
+1 Spell Pierce
+1 Declaration in Stone
+1 Lórien Revealed
+1 Selfless Spirit
+1 Elite Spellbinder
+1 Get Lost
+1 Celestial Colonnade
+1 Teferi, Hero of Dominaria
+1 Mana Leak
+1 Steamcore Scholar
+1 Make Disappear
+1 Relic of Sauron
+1 Swords to Plowshares
+1 Palace Jailer
+1 Spyglass Siren
+1 Tishana's Tidebinder
+1 Shelldock Isle
+1 Jace, the Mind Sculptor
+1 Tranquil Landscape
+6 Plains
+6 Island
+
+1 Serra Paragon
+1 Blade Splicer
+1 Riftwing Cloudskate
+1 Angel of Indemnity
+1 Coveted Jewel
+1 Helping Hand
+1 Shambling Vent
+1 Loran of the Third Path
+1 Knight of the Ebon Legion
+1 Noble Hierarch
+1 Thalia, Guardian of Thraben
+1 Mawloc
+1 Nethergoyf
+1 Fatal Push
+1 Mother of Runes
+1 Bronzebeak Foragers
+1 Conclave Tribunal

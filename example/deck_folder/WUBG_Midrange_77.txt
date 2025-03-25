@@ -1,0 +1,55 @@
+Player: Martin
+Archetype: Midrange
+Record: 2-1
+Games: 3-5
+
+1 Teferi, Hero of Dominaria
+1 Elvish Reclaimer
+1 Bristly Bill, Spine Sower
+1 Spyglass Siren
+1 The Goose Mother
+1 Bloodstained Mire
+1 Faerie Mastermind
+1 Thragtusk
+1 Windswept Heath
+1 Wooded Foothills
+1 Harrow
+1 Once Upon a Time
+1 Farseek
+1 Ponder
+1 Dismember
+1 Llanowar Elves
+1 Toxic Deluge
+1 Tishana's Tidebinder
+1 Malcolm, Alluring Scoundrel
+1 Tranquil Landscape
+1 Smirking Spelljacker
+1 Uro, Titan of Nature's Wrath
+1 Ravenous Chupacabra
+1 Boseiju, Who Endures
+1 Zagoth Triome
+1 Underground Mortuary
+1 Indatha Triome
+1 Jetmir's Garden
+1 Guardian Scalelord
+1 Titania, Protector of Argoth
+1 Crucible of Worlds
+1 Serra Paragon
+2 Plains
+3 Island
+1 Swamp
+2 Forest
+
+1 Commercial District
+1 Archaeomancer
+1 Tenacious Underdog
+1 Currency Converter
+1 Grist, the Hunger Tide
+1 Confounding Riddle
+1 Baral's Expertise
+1 Chandra, Torch of Defiance
+1 Faerie Seer
+1 Wight of the Reliquary
+1 Veil of Summer
+1 Narset, Parter of Veils
+1 Hullbreacher

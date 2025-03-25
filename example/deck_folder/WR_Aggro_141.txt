@@ -1,0 +1,53 @@
+Player: Johan
+Archetype: Aggro_Tokens
+Record: 3-0
+Games: 6-0
+
+1 Phelia, Exuberant Shepherd
+1 Securitron Squadron
+1 Urabrask's Forge
+1 Giver of Runes
+1 Bonecrusher Giant // Stomp
+1 Virtue of Loyalty // Ardenvale Fealty
+1 Shattered Landscape
+1 Warden of the Inner Sky
+1 Chainsaw
+1 Firebolt
+1 Ocelot Pride
+1 Screaming Nemesis
+1 Recruitment Officer
+1 Inti, Seneschal of the Sun
+1 Figure of Destiny
+1 Usher of the Fallen
+1 Glimmer Lens
+1 Collector's Cage
+1 Cemetery Gatekeeper
+1 Luminarch Aspirant
+1 Intrepid Adversary
+1 Hopeful Initiate
+1 Sacred Foundry
+1 Anim Pakal, Thousandth Moon
+1 Earthshaker Khenra
+1 Jacked Rabbit
+10 Plains
+4 Mountain
+
+1 Reckless Impulse
+1 Zealous Conscripts
+1 Restoration Angel
+1 Stoke the Flames
+1 Voldaren Epicure
+1 Fiery Confluence
+1 Twinshot Sniper
+1 Parallax Wave
+1 Spirited Companion
+1 Ephemerate
+1 Guardian Scalelord
+1 Eagles of the North
+1 Heart-Piercer Manticore
+1 Sunspine Lynx
+1 Young Pyromancer
+1 Shivan Devastator
+1 Heliod, Sun-Crowned
+1 Baleful Strix
+1 Noxious Gearhulk

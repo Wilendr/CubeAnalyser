@@ -1,0 +1,54 @@
+Player: Oskar
+Archetype: Control
+Record: 3-0
+Games: 6-1
+
+1 Sunfall
+1 The Eternal Wanderer
+1 Gix's Command
+1 Collector's Vault
+1 Condemn
+1 Phantasmal Image
+1 Celestial Colonnade
+1 Glen Elendra Archmage
+1 Baleful Mastery
+1 Isolated Chapel
+1 Farewell
+1 Flooded Strand
+1 Daze
+1 Get Lost
+1 Cryptic Coat
+1 Path to Exile
+1 Fact or Fiction
+1 Vindicate
+1 Jace, the Mind Sculptor
+1 Marsh Flats
+1 Kaya's Guile
+1 Breach the Multiverse
+1 Evolving Wilds
+1 Fateful Absence
+1 Watery Grave
+1 Supreme Verdict
+1 Shambling Vent
+1 Creeping Tar Pit
+1 Narset, Parter of Veils
+1 Archangel Elspeth
+1 Grave Titan
+3 Plains
+4 Island
+2 Swamp
+
+1 Hostage Taker
+1 Massacre Girl, Known Killer
+1 Phyrexian Fleshgorger
+1 Dig Through Time
+1 Karmic Guide
+1 Skullclamp
+1 Kayla's Command
+1 Resplendent Angel
+1 Dauntless Bodyguard
+1 Galadriel, Gift-Giver
+1 Poison-Tip Archer
+1 Altar of Dementia
+1 Anzrag, the Quake-Mole
+1 Hellrider

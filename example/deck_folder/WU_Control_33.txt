@@ -1,0 +1,53 @@
+Player: Vegard
+Archetype: Control
+Record: 1-2
+Games: 4-4
+
+1 Coveted Jewel
+1 Chrome Host Seedshark
+1 Fall from Favor
+1 Approach of the Second Sun
+1 Cloudblazer
+1 Snapcaster Mage
+1 Kitesail Larcenist
+1 Meticulous Archive
+1 Counterspell
+1 Farewell
+1 Settle the Wreckage
+1 Lose Focus
+1 Misty Rainforest
+1 Aerial Extortionist
+1 Mulldrifter
+1 Strip Mine
+1 Supreme Verdict
+1 Soulherder
+1 Delney, Streetwise Lookout
+1 Preordain
+1 Declaration in Stone
+1 Parallax Wave
+1 Sunfall
+1 Fact or Fiction
+1 Celestial Colonnade
+1 Shelldock Isle
+1 Palantír of Orthanc
+1 Hero of Bladehold
+1 Displacer Kitten
+6 Plains
+6 Island
+
+1 Negate
+1 Displace
+1 Icefall Regent
+1 Expel the Interlopers
+1 Chart a Course
+1 Raise the Palisade
+1 Riftwing Cloudskate
+1 Dauntless Bodyguard
+1 The Goose Mother
+1 Goblin Assault
+1 Farseek
+1 Third Path Iconoclast
+1 The Eternal Wanderer
+1 Remand
+1 Ghostly Flicker
+1 Sevinne's Reclamation
