@@ -1,0 +1,53 @@
+Player: Anders
+Archetype: Midrange_Graveyard
+Record: 3-0
+Games: 6-1.5
+
+1 Fatal Push
+1 Bitterblossom
+1 Nyx Weaver
+1 Timeless Witness
+1 Syr Konrad, the Grim
+1 Maelstrom Pulse
+1 Phyrexian Fleshgorger
+1 Blossoming Tortoise
+1 Body Launderer
+1 Phyrexian Tower
+1 Wrenn and Realmbreaker
+1 Collective Brutality
+1 Virtue of Persistence // Locthwain Scorn
+1 Hogaak, Arisen Necropolis
+1 Shriekmaw
+1 Haunted Mire
+1 Living Death
+1 Lethal Scheme
+1 Life from the Loam
+1 Deathrite Shaman
+1 Urborg Scavengers
+1 Jadelight Spelunker
+1 Topiary Stomper
+1 Mosswood Dreadknight // Dread Whispers
+1 Woodland Cemetery
+1 Contest of Claws
+7 Swamp
+7 Forest
+
+1 Prairie Stream
+1 Kiora, Behemoth Beckoner
+1 Regrowth
+1 Up the Beanstalk
+1 Gilded Goose
+1 Dryad of the Ilysian Grove
+1 Tireless Provisioner
+1 Woe Strider
+1 Massacre Girl, Known Killer
+1 Inscription of Abundance
+1 Oracle of Mul Daya
+1 The Goose Mother
+1 Hydroid Krasis
+1 Lord Skitter, Sewer King
+1 Good-Fortune Unicorn
+1 Remand
+1 Voracious Greatshark
+1 Sacred Foundry
+1 Altar of Dementia
