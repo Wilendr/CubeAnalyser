@@ -49,9 +49,9 @@ This tool lets you analyze your own cube draft decklists using a graphical user 
 
 Each deck file should follow this format (one deck per file):
 
-Player: Name
-Archetype: Superarchetype_Subarchetype
-Record: MatchWins-MatchLosses
+Player: Name\
+Archetype: Superarchetype_Subarchetype\
+Record: MatchWins-MatchLosses\
 Games: GameWins-GameLosses
 
 1 Lightning Bolt\
