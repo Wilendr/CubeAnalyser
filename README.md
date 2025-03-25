@@ -54,15 +54,15 @@ Archetype: Superarchetype_Subarchetype
 Record: MatchWins-MatchLosses
 Games: GameWins-GameLosses
 
-1 Lightning Bolt
-.
-.
-.
+1 Lightning Bolt\\
+.\\
+.\\
+.\\
 
-1 One with Nothing
-.
-.
-.
+1 One with Nothing\\
+.\\
+.\\
+.\\
 
 Note: Incorrect formatting may cause errors.
 
